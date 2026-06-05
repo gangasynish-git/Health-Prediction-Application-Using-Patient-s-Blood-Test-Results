@@ -1,0 +1,5001 @@
+Glucose,Haemoglobin,Cholesterol,Risk
+172,15.9,218,High Risk
+249,12.2,267,High Risk
+162,9.7,134,High Risk
+84,12.7,188,Healthy
+176,8.6,298,High Risk
+141,17.4,195,Moderate Risk
+90,8.7,181,Moderate Risk
+172,12.4,238,High Risk
+191,13.3,156,Moderate Risk
+144,17.9,253,High Risk
+157,9.7,318,High Risk
+186,9.1,145,High Risk
+169,8.1,127,High Risk
+173,9.6,123,High Risk
+221,10.1,140,High Risk
+200,14.3,278,High Risk
+219,10.2,268,High Risk
+122,8.2,144,Moderate Risk
+71,16.3,262,Moderate Risk
+157,11.7,282,High Risk
+227,11.5,296,High Risk
+107,11.0,162,Moderate Risk
+199,17.8,288,High Risk
+90,9.7,156,Moderate Risk
+230,17.0,304,High Risk
+127,15.8,161,Healthy
+91,8.8,294,High Risk
+158,17.9,211,High Risk
+118,10.7,180,Moderate Risk
+128,9.0,261,High Risk
+239,16.3,187,Moderate Risk
+84,15.1,172,Healthy
+244,14.2,203,High Risk
+120,9.6,153,Moderate Risk
+177,12.8,195,Moderate Risk
+124,15.8,216,Moderate Risk
+133,11.0,271,High Risk
+200,11.1,267,High Risk
+120,8.0,316,High Risk
+204,9.7,149,High Risk
+90,16.8,207,Moderate Risk
+142,12.4,126,Moderate Risk
+236,17.8,155,Moderate Risk
+87,12.0,157,Healthy
+201,15.2,171,Moderate Risk
+158,10.8,262,High Risk
+129,11.6,293,High Risk
+83,9.9,270,High Risk
+78,11.5,259,High Risk
+159,13.5,291,High Risk
+122,17.9,262,Moderate Risk
+199,14.6,212,High Risk
+153,10.0,226,High Risk
+161,8.4,245,High Risk
+180,9.3,168,High Risk
+241,13.6,140,Moderate Risk
+77,15.7,134,Healthy
+244,17.4,133,Moderate Risk
+104,8.2,161,Moderate Risk
+150,13.2,134,Moderate Risk
+233,12.7,182,Moderate Risk
+119,14.6,315,Moderate Risk
+173,13.6,146,Moderate Risk
+201,14.9,212,High Risk
+71,14.6,224,Moderate Risk
+203,9.2,172,High Risk
+123,16.0,171,Healthy
+175,9.2,182,High Risk
+73,15.0,300,Moderate Risk
+123,12.2,176,Healthy
+215,13.1,239,High Risk
+113,17.0,171,Healthy
+231,16.9,226,High Risk
+83,16.2,162,Healthy
+164,13.1,254,High Risk
+117,15.4,236,Moderate Risk
+84,13.1,289,Moderate Risk
+109,16.7,123,Healthy
+151,12.0,316,High Risk
+180,17.7,252,High Risk
+122,17.3,199,Healthy
+93,15.4,160,Healthy
+223,10.8,251,High Risk
+193,9.3,121,High Risk
+110,16.5,314,Moderate Risk
+226,9.7,268,High Risk
+84,16.5,317,Moderate Risk
+114,12.9,162,Healthy
+134,12.1,201,Moderate Risk
+158,17.0,227,High Risk
+140,14.0,316,Moderate Risk
+78,13.8,256,Moderate Risk
+157,13.6,275,High Risk
+198,11.7,145,High Risk
+205,15.9,201,High Risk
+132,10.5,202,High Risk
+208,17.4,250,High Risk
+150,16.9,192,Moderate Risk
+205,11.4,219,High Risk
+232,15.3,168,Moderate Risk
+232,13.7,264,High Risk
+102,11.4,182,Moderate Risk
+192,17.9,174,Moderate Risk
+74,8.3,270,High Risk
+110,10.5,153,Moderate Risk
+97,13.2,224,Moderate Risk
+204,13.2,224,High Risk
+141,13.9,188,Moderate Risk
+81,15.5,134,Healthy
+231,14.2,294,High Risk
+102,14.0,122,Healthy
+117,8.5,275,High Risk
+220,11.8,122,High Risk
+131,10.3,221,High Risk
+106,10.7,123,Moderate Risk
+168,13.5,207,High Risk
+241,10.0,278,High Risk
+173,10.9,164,High Risk
+104,10.4,306,High Risk
+170,17.5,164,Moderate Risk
+244,17.4,194,Moderate Risk
+200,14.1,284,High Risk
+70,17.2,312,Moderate Risk
+74,15.9,128,Healthy
+211,13.9,264,High Risk
+172,8.1,237,High Risk
+96,15.7,184,Healthy
+206,15.0,250,High Risk
+84,14.2,145,Healthy
+159,15.6,300,High Risk
+111,13.1,278,Moderate Risk
+193,15.0,145,Moderate Risk
+248,17.4,142,Moderate Risk
+132,11.8,149,Moderate Risk
+165,15.1,129,Moderate Risk
+121,12.8,191,Healthy
+165,14.7,183,Moderate Risk
+201,15.6,269,High Risk
+220,8.5,262,High Risk
+212,14.5,242,High Risk
+240,10.3,224,High Risk
+98,14.7,303,Moderate Risk
+105,12.7,193,Healthy
+82,15.7,267,Moderate Risk
+229,9.2,224,High Risk
+140,14.3,166,Healthy
+155,10.8,206,High Risk
+97,16.5,172,Healthy
+135,17.3,300,Moderate Risk
+239,18.0,248,High Risk
+114,16.0,121,Healthy
+131,15.5,177,Healthy
+203,10.2,266,High Risk
+97,11.4,309,High Risk
+97,12.7,191,Healthy
+177,15.7,259,High Risk
+113,17.1,273,Moderate Risk
+153,9.9,146,High Risk
+99,17.2,148,Healthy
+144,15.0,134,Moderate Risk
+197,14.1,293,High Risk
+161,10.0,248,High Risk
+198,8.6,179,High Risk
+190,13.7,226,High Risk
+96,14.5,304,Moderate Risk
+190,10.1,122,High Risk
+185,13.6,234,High Risk
+72,16.6,265,Moderate Risk
+172,16.4,171,Moderate Risk
+224,17.3,179,Moderate Risk
+206,11.7,153,High Risk
+131,11.2,215,High Risk
+234,15.5,208,High Risk
+120,12.3,179,Healthy
+241,8.9,273,High Risk
+221,10.8,319,High Risk
+128,12.2,138,Healthy
+187,10.9,230,High Risk
+229,11.3,141,High Risk
+165,10.9,280,High Risk
+249,8.4,285,High Risk
+182,14.4,247,High Risk
+131,14.0,154,Healthy
+121,14.5,226,Moderate Risk
+81,9.9,247,High Risk
+108,11.0,314,High Risk
+199,14.2,202,High Risk
+200,14.0,257,High Risk
+182,13.1,262,High Risk
+170,11.5,258,High Risk
+182,17.1,230,High Risk
+150,11.4,209,High Risk
+182,12.6,143,Moderate Risk
+71,14.8,196,Healthy
+199,13.4,220,High Risk
+123,11.5,251,High Risk
+156,12.4,132,Moderate Risk
+198,15.9,304,High Risk
+216,10.8,217,High Risk
+195,9.4,239,High Risk
+199,11.1,156,High Risk
+122,16.5,167,Healthy
+241,8.9,318,High Risk
+229,17.9,120,Moderate Risk
+229,13.4,179,Moderate Risk
+137,17.8,259,Moderate Risk
+192,17.4,268,High Risk
+214,12.5,258,High Risk
+107,10.0,163,Moderate Risk
+93,9.6,234,High Risk
+138,10.4,305,High Risk
+185,15.1,227,High Risk
+167,10.7,163,High Risk
+208,11.4,197,High Risk
+213,12.5,281,High Risk
+166,17.1,144,Moderate Risk
+193,9.9,251,High Risk
+139,8.1,311,High Risk
+162,8.6,235,High Risk
+72,17.0,238,Moderate Risk
+217,14.5,263,High Risk
+233,10.7,129,High Risk
+216,9.8,228,High Risk
+159,10.9,313,High Risk
+216,9.1,154,High Risk
+217,17.4,253,High Risk
+165,15.8,138,Moderate Risk
+121,12.6,306,Moderate Risk
+230,16.6,300,High Risk
+237,10.5,127,High Risk
+197,15.2,129,Moderate Risk
+108,16.6,314,Moderate Risk
+151,11.6,285,High Risk
+173,15.6,148,Moderate Risk
+198,11.0,134,High Risk
+80,11.0,206,High Risk
+247,9.1,142,High Risk
+220,12.4,165,Moderate Risk
+228,15.3,147,Moderate Risk
+111,17.4,145,Healthy
+168,14.0,129,Moderate Risk
+76,16.6,294,Moderate Risk
+213,16.2,123,Moderate Risk
+159,9.7,174,High Risk
+181,12.9,185,Moderate Risk
+129,9.2,186,Moderate Risk
+182,14.8,254,High Risk
+71,17.5,174,Healthy
+198,9.4,150,High Risk
+117,15.3,193,Healthy
+209,14.3,138,Moderate Risk
+106,13.8,275,Moderate Risk
+229,11.9,200,High Risk
+78,11.6,275,High Risk
+168,8.5,266,High Risk
+216,10.2,206,High Risk
+117,8.2,139,Moderate Risk
+200,13.8,132,Moderate Risk
+217,9.1,196,High Risk
+221,16.7,162,Moderate Risk
+123,13.2,258,Moderate Risk
+189,15.0,295,High Risk
+230,12.1,262,High Risk
+221,13.6,264,High Risk
+185,17.4,301,High Risk
+144,8.8,169,High Risk
+182,10.5,147,High Risk
+233,15.8,123,Moderate Risk
+235,9.0,141,High Risk
+173,8.8,238,High Risk
+153,11.6,220,High Risk
+181,8.9,158,High Risk
+168,13.9,153,Moderate Risk
+222,10.3,216,High Risk
+162,17.0,163,Moderate Risk
+215,15.8,289,High Risk
+197,15.0,159,Moderate Risk
+179,14.2,216,High Risk
+151,16.6,259,High Risk
+123,10.2,249,High Risk
+232,16.7,275,High Risk
+238,15.9,193,Moderate Risk
+230,15.5,205,High Risk
+137,13.6,209,Moderate Risk
+102,10.5,186,Moderate Risk
+211,12.2,318,High Risk
+90,15.9,319,Moderate Risk
+117,8.3,195,Moderate Risk
+217,15.8,211,High Risk
+197,10.4,129,High Risk
+205,9.4,205,High Risk
+204,9.2,221,High Risk
+214,8.3,304,High Risk
+197,13.2,227,High Risk
+102,10.2,284,High Risk
+245,17.9,210,High Risk
+184,13.7,311,High Risk
+188,9.4,198,High Risk
+91,14.9,205,Moderate Risk
+227,17.0,226,High Risk
+107,15.5,287,Moderate Risk
+178,8.8,220,High Risk
+120,17.0,227,Moderate Risk
+77,15.9,179,Healthy
+96,9.6,167,Moderate Risk
+96,8.5,236,High Risk
+90,13.6,225,Moderate Risk
+99,9.6,266,High Risk
+166,16.3,319,High Risk
+97,11.6,152,Moderate Risk
+180,17.1,163,Moderate Risk
+130,13.7,284,Moderate Risk
+117,9.8,231,High Risk
+216,9.4,208,High Risk
+73,13.8,155,Healthy
+104,15.6,200,Healthy
+118,15.8,207,Moderate Risk
+86,10.8,268,High Risk
+241,10.0,249,High Risk
+227,8.2,150,High Risk
+115,14.8,227,Moderate Risk
+186,8.8,149,High Risk
+75,12.2,291,Moderate Risk
+168,14.0,131,Moderate Risk
+193,17.4,170,Moderate Risk
+106,11.1,240,High Risk
+93,10.5,296,High Risk
+162,14.5,271,High Risk
+115,14.2,271,Moderate Risk
+164,11.3,307,High Risk
+168,17.3,258,High Risk
+185,16.4,132,Moderate Risk
+229,10.2,210,High Risk
+230,10.4,319,High Risk
+136,13.1,193,Healthy
+197,15.7,319,High Risk
+87,8.4,311,High Risk
+94,14.9,139,Healthy
+123,14.5,191,Healthy
+127,10.3,192,Moderate Risk
+136,14.8,190,Healthy
+173,17.4,197,Moderate Risk
+243,8.5,147,High Risk
+93,11.2,249,High Risk
+183,12.4,240,High Risk
+101,17.0,162,Healthy
+244,17.6,127,Moderate Risk
+155,12.4,132,Moderate Risk
+220,15.5,230,High Risk
+196,13.3,154,Moderate Risk
+224,13.4,142,Moderate Risk
+199,10.8,165,High Risk
+86,10.2,134,Moderate Risk
+173,10.9,249,High Risk
+230,13.6,180,Moderate Risk
+206,8.3,234,High Risk
+112,17.1,183,Healthy
+245,9.6,171,High Risk
+108,10.2,283,High Risk
+239,13.2,314,High Risk
+95,15.1,188,Healthy
+168,9.0,186,High Risk
+119,11.2,294,High Risk
+222,17.7,202,High Risk
+221,10.6,121,High Risk
+82,11.1,291,High Risk
+129,16.4,311,Moderate Risk
+204,8.5,197,High Risk
+126,12.6,147,Healthy
+105,11.8,173,Moderate Risk
+242,11.2,186,High Risk
+89,10.9,283,High Risk
+134,8.9,221,High Risk
+77,11.1,239,High Risk
+213,8.4,310,High Risk
+211,15.8,272,High Risk
+184,12.0,167,Moderate Risk
+212,12.4,286,High Risk
+161,16.9,166,Moderate Risk
+167,14.6,140,Moderate Risk
+135,8.1,277,High Risk
+101,17.4,211,Moderate Risk
+155,10.4,278,High Risk
+120,9.1,240,High Risk
+222,15.7,235,High Risk
+132,13.0,273,Moderate Risk
+194,12.3,269,High Risk
+219,10.5,268,High Risk
+127,13.5,120,Healthy
+127,10.7,284,High Risk
+155,17.0,196,Moderate Risk
+118,10.2,204,High Risk
+249,16.8,165,Moderate Risk
+239,13.6,256,High Risk
+139,16.3,264,Moderate Risk
+84,15.1,166,Healthy
+123,15.0,178,Healthy
+170,11.2,173,High Risk
+77,10.3,205,High Risk
+122,10.1,131,Moderate Risk
+129,16.6,311,Moderate Risk
+177,16.2,125,Moderate Risk
+74,12.4,172,Healthy
+172,9.3,263,High Risk
+75,11.8,209,High Risk
+178,14.2,124,Moderate Risk
+185,12.5,192,Moderate Risk
+163,15.8,293,High Risk
+116,18.0,133,Healthy
+168,9.9,291,High Risk
+124,12.6,310,Moderate Risk
+237,12.3,225,High Risk
+121,11.0,171,Moderate Risk
+213,10.0,235,High Risk
+82,8.7,145,Moderate Risk
+183,16.9,172,Moderate Risk
+193,12.2,228,High Risk
+175,13.0,148,Moderate Risk
+227,17.2,138,Moderate Risk
+216,15.8,166,Moderate Risk
+214,9.3,255,High Risk
+189,13.7,142,Moderate Risk
+132,12.4,236,Moderate Risk
+88,16.0,225,Moderate Risk
+161,15.2,282,High Risk
+127,14.9,172,Healthy
+159,11.4,215,High Risk
+186,16.0,305,High Risk
+131,8.5,124,Moderate Risk
+92,9.6,135,Moderate Risk
+196,11.4,136,High Risk
+206,8.8,279,High Risk
+209,10.3,221,High Risk
+198,16.3,299,High Risk
+127,17.5,139,Healthy
+191,11.0,231,High Risk
+70,10.6,239,High Risk
+103,10.8,313,High Risk
+165,10.8,230,High Risk
+195,8.4,120,High Risk
+187,17.3,177,Moderate Risk
+117,10.1,212,High Risk
+158,12.2,291,High Risk
+186,8.1,125,High Risk
+198,16.6,227,High Risk
+85,15.3,222,Moderate Risk
+138,17.5,169,Healthy
+91,15.8,237,Moderate Risk
+162,11.1,229,High Risk
+145,10.5,319,High Risk
+223,15.0,207,High Risk
+213,11.6,139,High Risk
+248,13.7,133,Moderate Risk
+155,8.1,252,High Risk
+98,8.6,288,High Risk
+138,13.4,159,Healthy
+116,13.7,153,Healthy
+163,15.5,243,High Risk
+213,9.3,164,High Risk
+245,13.1,318,High Risk
+154,9.9,199,High Risk
+108,8.9,190,Moderate Risk
+169,12.1,274,High Risk
+102,9.6,197,Moderate Risk
+170,10.2,197,High Risk
+92,11.2,291,High Risk
+79,10.6,152,Moderate Risk
+138,8.9,152,Moderate Risk
+169,8.9,163,High Risk
+103,9.9,139,Moderate Risk
+249,8.5,230,High Risk
+207,14.3,283,High Risk
+216,10.9,126,High Risk
+165,10.8,279,High Risk
+70,11.3,314,High Risk
+138,14.6,286,Moderate Risk
+73,16.7,143,Healthy
+85,15.6,189,Healthy
+93,15.3,231,Moderate Risk
+149,12.8,223,High Risk
+71,14.9,173,Healthy
+197,13.5,157,Moderate Risk
+229,10.2,193,High Risk
+153,10.1,199,High Risk
+221,11.0,151,High Risk
+209,17.1,164,Moderate Risk
+247,13.5,180,Moderate Risk
+232,15.3,317,High Risk
+193,11.5,172,High Risk
+102,12.1,247,Moderate Risk
+230,9.3,298,High Risk
+248,9.7,195,High Risk
+240,16.3,303,High Risk
+170,13.8,146,Moderate Risk
+81,11.4,285,High Risk
+136,16.0,181,Healthy
+134,10.5,137,Moderate Risk
+230,17.8,246,High Risk
+237,11.4,228,High Risk
+143,11.4,222,High Risk
+112,11.1,311,High Risk
+113,9.2,196,Moderate Risk
+98,9.1,236,High Risk
+210,14.5,223,High Risk
+81,16.8,277,Moderate Risk
+164,15.9,168,Moderate Risk
+115,9.4,288,High Risk
+199,13.5,235,High Risk
+104,9.1,260,High Risk
+150,8.5,281,High Risk
+159,14.6,219,High Risk
+77,13.4,244,Moderate Risk
+162,8.8,144,High Risk
+223,8.3,313,High Risk
+159,17.9,247,High Risk
+231,8.3,219,High Risk
+184,12.4,265,High Risk
+174,13.0,124,Moderate Risk
+204,9.2,138,High Risk
+127,9.7,289,High Risk
+183,11.5,137,High Risk
+144,15.6,240,High Risk
+226,13.1,151,Moderate Risk
+189,14.4,268,High Risk
+233,17.9,129,Moderate Risk
+90,15.7,156,Healthy
+233,12.3,296,High Risk
+207,12.5,205,High Risk
+170,14.2,132,Moderate Risk
+221,14.7,302,High Risk
+246,13.0,264,High Risk
+168,14.4,128,Moderate Risk
+105,8.2,207,High Risk
+165,12.3,291,High Risk
+221,10.8,165,High Risk
+220,9.3,255,High Risk
+106,9.0,238,High Risk
+81,14.0,284,Moderate Risk
+182,13.2,138,Moderate Risk
+82,10.5,310,High Risk
+92,12.7,293,Moderate Risk
+168,12.9,213,High Risk
+174,10.0,318,High Risk
+99,14.5,145,Healthy
+86,15.8,165,Healthy
+182,15.9,237,High Risk
+131,14.0,165,Healthy
+153,13.1,133,Moderate Risk
+181,8.6,204,High Risk
+155,10.9,182,High Risk
+210,8.9,191,High Risk
+88,17.6,122,Healthy
+246,9.4,147,High Risk
+169,9.5,244,High Risk
+209,16.9,276,High Risk
+216,17.4,206,High Risk
+145,15.7,265,High Risk
+78,8.1,282,High Risk
+97,8.0,196,Moderate Risk
+197,11.8,195,High Risk
+121,9.4,294,High Risk
+152,8.2,233,High Risk
+180,12.6,252,High Risk
+213,17.4,194,Moderate Risk
+186,11.2,178,High Risk
+138,14.6,178,Healthy
+168,14.5,166,Moderate Risk
+209,10.5,214,High Risk
+94,14.5,260,Moderate Risk
+249,10.1,197,High Risk
+192,9.2,232,High Risk
+122,15.0,228,Moderate Risk
+220,9.1,225,High Risk
+213,18.0,208,High Risk
+126,9.8,152,Moderate Risk
+108,13.9,216,Moderate Risk
+178,12.1,309,High Risk
+111,9.3,198,Moderate Risk
+236,8.3,135,High Risk
+211,14.2,163,Moderate Risk
+191,16.1,305,High Risk
+202,16.4,239,High Risk
+232,12.8,253,High Risk
+144,15.8,227,High Risk
+215,14.7,262,High Risk
+145,15.2,123,Moderate Risk
+78,12.9,175,Healthy
+143,14.3,183,Moderate Risk
+214,16.1,315,High Risk
+76,12.0,281,Moderate Risk
+243,16.1,214,High Risk
+210,13.9,175,Moderate Risk
+237,9.7,151,High Risk
+239,8.2,235,High Risk
+206,11.6,128,High Risk
+247,13.5,310,High Risk
+96,16.4,224,Moderate Risk
+191,9.3,319,High Risk
+74,16.0,197,Healthy
+98,16.6,280,Moderate Risk
+234,9.5,206,High Risk
+235,16.5,140,Moderate Risk
+152,17.9,174,Moderate Risk
+205,15.3,195,Moderate Risk
+178,15.8,304,High Risk
+134,17.9,249,Moderate Risk
+155,14.1,260,High Risk
+214,11.1,245,High Risk
+140,16.4,251,Moderate Risk
+114,14.1,203,Moderate Risk
+201,13.8,297,High Risk
+105,10.5,234,High Risk
+139,15.6,167,Healthy
+228,8.8,242,High Risk
+88,17.2,197,Healthy
+177,11.3,149,High Risk
+236,9.3,148,High Risk
+160,12.4,255,High Risk
+159,8.4,259,High Risk
+88,14.8,160,Healthy
+108,17.0,145,Healthy
+195,16.4,169,Moderate Risk
+242,9.3,121,High Risk
+210,9.3,174,High Risk
+195,16.1,223,High Risk
+127,17.2,303,Moderate Risk
+217,12.6,133,Moderate Risk
+130,13.0,253,Moderate Risk
+196,11.2,247,High Risk
+174,16.9,223,High Risk
+236,14.4,214,High Risk
+70,10.9,200,Moderate Risk
+200,11.0,180,High Risk
+161,16.9,131,Moderate Risk
+182,8.1,132,High Risk
+222,11.2,266,High Risk
+125,13.5,291,Moderate Risk
+230,9.5,208,High Risk
+235,8.9,214,High Risk
+186,16.2,178,Moderate Risk
+203,16.9,156,Moderate Risk
+127,16.2,144,Healthy
+113,17.0,135,Healthy
+242,13.5,285,High Risk
+229,16.1,290,High Risk
+242,11.8,206,High Risk
+130,14.7,261,Moderate Risk
+116,17.9,253,Moderate Risk
+218,10.3,142,High Risk
+149,11.9,245,High Risk
+187,12.8,179,Moderate Risk
+233,9.4,259,High Risk
+216,8.8,260,High Risk
+89,16.3,219,Moderate Risk
+215,17.8,222,High Risk
+116,12.0,253,Moderate Risk
+118,8.9,182,Moderate Risk
+83,8.7,157,Moderate Risk
+212,16.9,247,High Risk
+228,12.6,169,Moderate Risk
+70,11.2,299,High Risk
+186,12.8,159,Moderate Risk
+123,11.2,127,Moderate Risk
+187,12.9,308,High Risk
+72,16.6,127,Healthy
+213,13.9,223,High Risk
+81,14.9,153,Healthy
+143,11.6,307,High Risk
+85,15.4,176,Healthy
+171,14.7,293,High Risk
+221,9.2,141,High Risk
+225,13.7,206,High Risk
+186,10.6,159,High Risk
+77,16.0,292,Moderate Risk
+191,12.3,302,High Risk
+161,17.9,298,High Risk
+233,8.9,205,High Risk
+159,15.8,252,High Risk
+205,14.7,214,High Risk
+129,15.7,132,Healthy
+247,11.1,147,High Risk
+97,12.9,203,Moderate Risk
+170,16.0,181,Moderate Risk
+110,10.3,212,High Risk
+224,10.3,206,High Risk
+214,13.5,143,Moderate Risk
+230,13.2,217,High Risk
+226,10.8,126,High Risk
+210,11.0,285,High Risk
+115,10.8,156,Moderate Risk
+104,15.7,187,Healthy
+203,14.5,289,High Risk
+151,16.3,205,High Risk
+184,17.8,252,High Risk
+116,12.7,311,Moderate Risk
+222,8.7,297,High Risk
+79,8.5,206,High Risk
+125,11.0,134,Moderate Risk
+99,17.3,242,Moderate Risk
+178,13.2,226,High Risk
+74,10.7,300,High Risk
+188,12.0,272,High Risk
+102,14.0,208,Moderate Risk
+187,14.5,244,High Risk
+134,9.5,232,High Risk
+215,17.8,256,High Risk
+246,13.4,285,High Risk
+80,9.4,269,High Risk
+154,16.9,226,High Risk
+95,8.7,206,High Risk
+132,17.1,296,Moderate Risk
+155,18.0,187,Moderate Risk
+128,15.0,134,Healthy
+96,15.7,184,Healthy
+246,11.4,173,High Risk
+230,17.4,277,High Risk
+167,13.3,212,High Risk
+174,15.3,139,Moderate Risk
+168,17.2,152,Moderate Risk
+198,17.8,219,High Risk
+218,16.3,196,Moderate Risk
+124,11.0,254,High Risk
+75,17.7,255,Moderate Risk
+164,14.3,275,High Risk
+202,17.3,292,High Risk
+171,14.8,226,High Risk
+72,11.1,239,High Risk
+92,11.7,193,Moderate Risk
+122,13.5,130,Healthy
+234,15.9,150,Moderate Risk
+152,11.2,131,High Risk
+214,13.8,243,High Risk
+154,11.5,197,High Risk
+147,16.2,298,High Risk
+179,12.7,291,High Risk
+70,8.8,215,High Risk
+120,9.7,169,Moderate Risk
+242,8.6,236,High Risk
+73,13.0,136,Healthy
+182,9.1,282,High Risk
+101,9.1,248,High Risk
+103,17.4,276,Moderate Risk
+161,16.7,298,High Risk
+164,12.5,183,Moderate Risk
+141,17.9,251,High Risk
+108,8.0,206,High Risk
+223,14.1,275,High Risk
+231,14.2,135,Moderate Risk
+187,12.6,182,Moderate Risk
+72,12.0,195,Healthy
+192,12.6,300,High Risk
+119,12.1,204,Moderate Risk
+81,15.3,228,Moderate Risk
+123,9.4,136,Moderate Risk
+202,10.0,287,High Risk
+126,9.8,260,High Risk
+214,10.6,299,High Risk
+181,13.3,177,Moderate Risk
+116,9.1,284,High Risk
+220,16.7,198,Moderate Risk
+154,11.0,180,High Risk
+211,9.6,232,High Risk
+135,14.8,240,Moderate Risk
+144,8.4,153,High Risk
+248,14.2,189,Moderate Risk
+172,15.0,136,Moderate Risk
+235,10.1,139,High Risk
+107,8.4,178,Moderate Risk
+119,11.6,188,Moderate Risk
+167,9.0,280,High Risk
+151,9.2,221,High Risk
+99,10.5,239,High Risk
+148,11.0,264,High Risk
+160,13.3,176,Moderate Risk
+248,14.8,202,High Risk
+121,13.9,248,Moderate Risk
+235,9.5,132,High Risk
+148,9.7,274,High Risk
+99,16.8,317,Moderate Risk
+175,13.6,306,High Risk
+120,16.7,125,Healthy
+150,11.7,216,High Risk
+202,14.1,213,High Risk
+98,13.2,229,Moderate Risk
+201,11.2,270,High Risk
+207,12.7,257,High Risk
+214,13.0,170,Moderate Risk
+143,10.0,266,High Risk
+86,11.2,170,Moderate Risk
+153,15.9,206,High Risk
+138,17.2,187,Healthy
+103,11.6,203,High Risk
+75,11.1,161,Moderate Risk
+122,10.0,176,Moderate Risk
+195,14.8,315,High Risk
+112,11.2,285,High Risk
+184,17.9,181,Moderate Risk
+180,11.3,126,High Risk
+220,11.9,231,High Risk
+149,14.0,318,High Risk
+164,16.0,297,High Risk
+187,12.7,299,High Risk
+213,12.2,145,Moderate Risk
+77,18.0,273,Moderate Risk
+201,8.1,138,High Risk
+173,17.0,128,Moderate Risk
+201,9.5,180,High Risk
+94,15.9,139,Healthy
+165,14.2,225,High Risk
+224,11.4,169,High Risk
+162,16.7,200,Moderate Risk
+229,8.1,269,High Risk
+247,10.3,260,High Risk
+130,13.7,259,Moderate Risk
+191,11.5,129,High Risk
+120,14.1,184,Healthy
+216,8.2,277,High Risk
+90,9.2,127,Moderate Risk
+74,9.3,268,High Risk
+161,9.9,141,High Risk
+239,12.6,137,Moderate Risk
+130,15.5,313,Moderate Risk
+91,17.1,295,Moderate Risk
+218,16.4,291,High Risk
+139,10.0,128,Moderate Risk
+70,12.4,314,Moderate Risk
+202,10.0,173,High Risk
+81,10.6,145,Moderate Risk
+159,13.0,213,High Risk
+115,8.7,219,High Risk
+103,10.2,145,Moderate Risk
+246,17.4,153,Moderate Risk
+147,12.7,127,Moderate Risk
+114,12.5,257,Moderate Risk
+224,8.1,167,High Risk
+142,10.5,302,High Risk
+95,16.7,226,Moderate Risk
+116,9.6,173,Moderate Risk
+190,12.2,287,High Risk
+125,8.1,238,High Risk
+163,12.8,262,High Risk
+176,8.2,200,High Risk
+132,16.2,265,Moderate Risk
+117,16.2,215,Moderate Risk
+130,15.9,221,Moderate Risk
+150,10.8,270,High Risk
+95,16.4,181,Healthy
+105,13.4,165,Healthy
+70,11.7,206,High Risk
+77,14.3,218,Moderate Risk
+182,8.1,158,High Risk
+168,9.4,262,High Risk
+249,15.4,172,Moderate Risk
+116,10.4,311,High Risk
+196,14.0,310,High Risk
+125,11.9,199,Moderate Risk
+83,16.5,135,Healthy
+97,17.5,223,Moderate Risk
+147,16.8,189,Moderate Risk
+199,10.7,313,High Risk
+178,9.9,260,High Risk
+223,12.7,227,High Risk
+83,8.1,166,Moderate Risk
+125,8.3,128,Moderate Risk
+184,13.5,310,High Risk
+76,13.2,153,Healthy
+72,17.9,276,Moderate Risk
+180,10.0,284,High Risk
+220,10.6,290,High Risk
+176,9.1,205,High Risk
+87,17.2,234,Moderate Risk
+107,15.8,183,Healthy
+184,16.2,271,High Risk
+84,17.0,318,Moderate Risk
+188,13.2,153,Moderate Risk
+97,12.5,295,Moderate Risk
+108,11.3,131,Moderate Risk
+86,13.9,270,Moderate Risk
+155,12.5,216,High Risk
+195,12.5,240,High Risk
+113,17.4,260,Moderate Risk
+94,17.8,206,Moderate Risk
+214,16.0,221,High Risk
+82,15.6,215,Moderate Risk
+94,14.8,292,Moderate Risk
+137,9.7,233,High Risk
+207,8.6,312,High Risk
+136,14.9,166,Healthy
+178,15.3,177,Moderate Risk
+215,8.5,252,High Risk
+180,17.3,240,High Risk
+180,8.9,237,High Risk
+103,10.9,124,Moderate Risk
+180,14.7,307,High Risk
+77,9.7,215,High Risk
+237,8.6,140,High Risk
+182,11.3,271,High Risk
+152,15.7,247,High Risk
+111,12.1,243,Moderate Risk
+238,14.5,265,High Risk
+170,13.8,140,Moderate Risk
+75,8.2,173,Moderate Risk
+249,17.9,257,High Risk
+95,8.4,271,High Risk
+133,17.7,223,Moderate Risk
+128,13.5,230,Moderate Risk
+178,17.6,235,High Risk
+190,9.1,307,High Risk
+102,12.9,176,Healthy
+219,9.7,247,High Risk
+90,8.5,270,High Risk
+139,14.2,269,Moderate Risk
+181,10.1,315,High Risk
+73,13.9,281,Moderate Risk
+163,9.1,239,High Risk
+144,11.3,189,High Risk
+131,15.8,275,Moderate Risk
+163,12.4,214,High Risk
+164,14.3,218,High Risk
+221,14.5,286,High Risk
+124,16.4,161,Healthy
+206,11.2,270,High Risk
+200,14.9,189,Moderate Risk
+100,17.6,121,Healthy
+109,15.3,271,Moderate Risk
+105,12.9,264,Moderate Risk
+221,14.3,228,High Risk
+75,15.4,184,Healthy
+135,14.1,189,Healthy
+144,8.2,188,High Risk
+73,9.9,240,High Risk
+148,16.1,228,High Risk
+203,10.7,179,High Risk
+187,15.3,297,High Risk
+182,11.7,212,High Risk
+163,13.2,131,Moderate Risk
+248,8.7,222,High Risk
+131,9.8,294,High Risk
+148,17.6,314,High Risk
+205,16.9,231,High Risk
+95,14.5,184,Healthy
+248,12.6,274,High Risk
+242,14.8,167,Moderate Risk
+113,14.2,207,Moderate Risk
+202,13.7,181,Moderate Risk
+139,8.6,163,Moderate Risk
+223,14.3,266,High Risk
+187,15.7,306,High Risk
+137,17.9,255,Moderate Risk
+88,8.1,174,Moderate Risk
+89,15.3,227,Moderate Risk
+182,13.7,166,Moderate Risk
+209,12.3,121,Moderate Risk
+116,9.3,232,High Risk
+70,12.1,286,Moderate Risk
+159,11.5,292,High Risk
+211,11.0,279,High Risk
+133,15.3,312,Moderate Risk
+107,15.0,285,Moderate Risk
+106,13.9,130,Healthy
+195,17.4,257,High Risk
+208,11.5,231,High Risk
+169,10.4,306,High Risk
+146,14.6,209,High Risk
+72,10.0,174,Moderate Risk
+230,11.2,267,High Risk
+203,10.2,136,High Risk
+247,8.7,187,High Risk
+79,16.3,252,Moderate Risk
+74,10.5,307,High Risk
+220,12.7,270,High Risk
+207,8.4,293,High Risk
+241,15.0,171,Moderate Risk
+199,11.3,257,High Risk
+82,15.4,293,Moderate Risk
+237,12.1,275,High Risk
+199,10.0,216,High Risk
+153,13.1,290,High Risk
+134,9.3,273,High Risk
+132,12.4,302,Moderate Risk
+170,11.2,167,High Risk
+142,17.1,148,Moderate Risk
+86,8.6,146,Moderate Risk
+78,14.9,265,Moderate Risk
+212,9.8,223,High Risk
+221,11.2,179,High Risk
+107,12.2,225,Moderate Risk
+232,17.1,188,Moderate Risk
+163,10.4,233,High Risk
+164,8.9,140,High Risk
+118,11.2,271,High Risk
+138,9.0,221,High Risk
+131,9.3,250,High Risk
+247,13.7,214,High Risk
+147,8.6,309,High Risk
+186,8.3,224,High Risk
+189,15.1,244,High Risk
+206,11.6,121,High Risk
+231,9.3,185,High Risk
+145,10.5,232,High Risk
+104,14.4,289,Moderate Risk
+70,10.8,281,High Risk
+109,12.9,161,Healthy
+133,9.2,139,Moderate Risk
+219,13.9,216,High Risk
+129,11.2,187,Moderate Risk
+133,14.3,292,Moderate Risk
+162,16.1,194,Moderate Risk
+141,14.1,244,High Risk
+80,11.0,289,High Risk
+174,10.6,166,High Risk
+83,11.3,124,Moderate Risk
+129,9.6,168,Moderate Risk
+99,9.8,243,High Risk
+104,15.9,156,Healthy
+234,11.8,281,High Risk
+74,12.4,317,Moderate Risk
+152,13.9,265,High Risk
+192,13.9,138,Moderate Risk
+147,8.7,159,High Risk
+223,16.3,136,Moderate Risk
+131,9.8,307,High Risk
+201,15.2,218,High Risk
+158,15.7,212,High Risk
+111,15.1,161,Healthy
+158,13.8,242,High Risk
+215,8.1,226,High Risk
+109,11.6,191,Moderate Risk
+141,14.0,184,Moderate Risk
+108,11.9,228,High Risk
+173,16.6,172,Moderate Risk
+83,11.1,254,High Risk
+101,10.9,252,High Risk
+248,10.7,143,High Risk
+194,11.3,147,High Risk
+235,13.6,181,Moderate Risk
+166,15.1,136,Moderate Risk
+92,14.6,139,Healthy
+132,16.1,122,Healthy
+212,16.9,284,High Risk
+222,16.2,262,High Risk
+214,8.2,170,High Risk
+122,15.4,295,Moderate Risk
+173,10.1,255,High Risk
+173,9.3,260,High Risk
+248,14.4,295,High Risk
+108,11.2,122,Moderate Risk
+248,8.6,312,High Risk
+203,9.4,192,High Risk
+136,8.0,278,High Risk
+204,17.0,224,High Risk
+248,8.2,237,High Risk
+111,10.1,273,High Risk
+84,12.2,303,Moderate Risk
+180,11.6,153,High Risk
+226,17.1,256,High Risk
+102,8.4,181,Moderate Risk
+224,13.1,239,High Risk
+233,14.8,234,High Risk
+226,17.3,132,Moderate Risk
+107,14.2,188,Healthy
+166,16.0,288,High Risk
+224,8.8,196,High Risk
+102,11.9,120,Moderate Risk
+155,11.7,208,High Risk
+135,16.9,166,Healthy
+79,9.5,123,Moderate Risk
+74,9.5,310,High Risk
+192,11.3,299,High Risk
+143,8.5,129,High Risk
+166,9.8,147,High Risk
+187,17.7,240,High Risk
+107,12.3,245,Moderate Risk
+210,14.3,253,High Risk
+228,15.3,274,High Risk
+116,11.7,259,High Risk
+178,9.5,181,High Risk
+249,10.1,299,High Risk
+84,11.1,295,High Risk
+226,14.4,186,Moderate Risk
+205,12.0,293,High Risk
+74,8.1,193,Moderate Risk
+226,13.2,214,High Risk
+116,17.2,262,Moderate Risk
+137,16.1,318,Moderate Risk
+145,16.3,155,Moderate Risk
+242,16.0,261,High Risk
+199,11.2,231,High Risk
+224,15.7,250,High Risk
+164,9.4,232,High Risk
+184,14.6,229,High Risk
+233,14.4,233,High Risk
+105,8.3,186,Moderate Risk
+95,15.9,245,Moderate Risk
+112,17.0,205,Moderate Risk
+96,10.7,138,Moderate Risk
+138,16.1,301,Moderate Risk
+217,8.8,188,High Risk
+80,14.0,129,Healthy
+143,12.9,280,High Risk
+173,13.5,260,High Risk
+107,17.3,247,Moderate Risk
+203,16.7,218,High Risk
+92,15.9,298,Moderate Risk
+116,10.7,151,Moderate Risk
+159,17.1,231,High Risk
+115,9.0,143,Moderate Risk
+176,16.5,154,Moderate Risk
+209,11.3,202,High Risk
+210,8.5,189,High Risk
+173,14.7,287,High Risk
+180,10.3,301,High Risk
+173,10.4,228,High Risk
+129,11.1,291,High Risk
+240,8.6,309,High Risk
+169,9.8,218,High Risk
+137,8.1,315,High Risk
+202,12.5,152,Moderate Risk
+189,8.8,175,High Risk
+106,14.8,283,Moderate Risk
+141,10.4,301,High Risk
+196,17.4,266,High Risk
+175,16.7,290,High Risk
+161,10.9,131,High Risk
+100,15.8,130,Healthy
+191,16.0,189,Moderate Risk
+206,17.9,259,High Risk
+120,14.0,160,Healthy
+98,8.8,272,High Risk
+109,14.5,225,Moderate Risk
+110,14.2,122,Healthy
+80,14.4,122,Healthy
+220,11.1,203,High Risk
+70,16.6,275,Moderate Risk
+115,17.6,270,Moderate Risk
+170,10.2,295,High Risk
+218,8.9,314,High Risk
+159,9.9,289,High Risk
+179,16.2,226,High Risk
+233,14.8,287,High Risk
+126,14.4,253,Moderate Risk
+70,12.0,139,Healthy
+132,13.8,258,Moderate Risk
+124,11.1,215,High Risk
+184,12.8,243,High Risk
+237,15.9,274,High Risk
+212,17.8,140,Moderate Risk
+218,17.3,233,High Risk
+244,17.3,132,Moderate Risk
+122,12.0,205,Moderate Risk
+206,12.7,154,Moderate Risk
+249,15.1,166,Moderate Risk
+126,17.2,275,Moderate Risk
+186,9.4,268,High Risk
+223,11.0,265,High Risk
+238,9.4,278,High Risk
+104,14.1,307,Moderate Risk
+132,11.1,244,High Risk
+94,11.3,229,High Risk
+159,8.7,156,High Risk
+144,11.5,140,High Risk
+107,16.6,133,Healthy
+199,10.3,210,High Risk
+204,15.0,179,Moderate Risk
+231,14.3,243,High Risk
+160,16.6,142,Moderate Risk
+86,9.3,230,High Risk
+197,17.8,243,High Risk
+240,13.8,276,High Risk
+177,18.0,294,High Risk
+248,17.1,149,Moderate Risk
+221,10.2,234,High Risk
+94,8.6,209,High Risk
+249,10.6,157,High Risk
+157,13.3,202,High Risk
+230,9.7,146,High Risk
+246,9.7,223,High Risk
+98,12.6,235,Moderate Risk
+132,8.3,134,Moderate Risk
+219,9.2,306,High Risk
+223,12.2,122,Moderate Risk
+225,8.6,129,High Risk
+183,12.0,239,High Risk
+118,12.7,264,Moderate Risk
+150,12.5,247,High Risk
+153,16.7,130,Moderate Risk
+174,13.3,295,High Risk
+246,12.7,252,High Risk
+217,12.1,188,Moderate Risk
+187,16.2,183,Moderate Risk
+155,17.0,133,Moderate Risk
+132,16.5,169,Healthy
+173,14.7,273,High Risk
+118,9.4,191,Moderate Risk
+140,10.8,188,Moderate Risk
+70,8.5,254,High Risk
+210,17.3,246,High Risk
+248,14.6,135,Moderate Risk
+192,15.5,302,High Risk
+131,11.1,197,Moderate Risk
+101,16.5,220,Moderate Risk
+227,10.6,175,High Risk
+98,8.0,224,High Risk
+118,11.8,251,High Risk
+242,13.7,167,Moderate Risk
+99,12.8,136,Healthy
+213,16.6,230,High Risk
+237,9.1,283,High Risk
+88,13.5,189,Healthy
+87,13.1,199,Healthy
+70,10.8,212,High Risk
+147,16.2,157,Moderate Risk
+184,15.5,220,High Risk
+244,15.3,181,Moderate Risk
+182,16.8,240,High Risk
+183,15.2,167,Moderate Risk
+235,10.3,129,High Risk
+248,15.1,155,Moderate Risk
+132,11.1,276,High Risk
+201,10.4,123,High Risk
+198,8.7,163,High Risk
+77,15.4,175,Healthy
+226,15.1,161,Moderate Risk
+124,10.3,233,High Risk
+172,15.5,260,High Risk
+200,17.2,293,High Risk
+101,9.1,280,High Risk
+79,10.3,140,Moderate Risk
+179,15.5,198,Moderate Risk
+231,10.7,304,High Risk
+193,14.2,188,Moderate Risk
+156,8.8,189,High Risk
+124,12.5,186,Healthy
+101,15.4,167,Healthy
+247,14.9,280,High Risk
+204,16.2,155,Moderate Risk
+162,16.8,280,High Risk
+77,15.7,278,Moderate Risk
+134,14.7,268,Moderate Risk
+126,8.3,146,Moderate Risk
+136,13.3,191,Healthy
+141,8.4,220,High Risk
+123,16.1,309,Moderate Risk
+136,11.2,215,High Risk
+120,13.6,247,Moderate Risk
+166,10.8,145,High Risk
+161,15.8,185,Moderate Risk
+77,16.9,259,Moderate Risk
+231,12.0,141,Moderate Risk
+104,16.6,136,Healthy
+165,10.7,126,High Risk
+157,13.3,226,High Risk
+147,16.6,187,Moderate Risk
+101,11.3,247,High Risk
+189,17.5,156,Moderate Risk
+115,9.2,157,Moderate Risk
+213,8.2,215,High Risk
+234,17.0,258,High Risk
+211,8.7,120,High Risk
+124,17.9,272,Moderate Risk
+245,17.5,161,Moderate Risk
+76,9.4,299,High Risk
+143,13.4,271,High Risk
+76,9.8,300,High Risk
+230,12.3,303,High Risk
+220,8.6,182,High Risk
+154,10.2,200,High Risk
+216,11.6,127,High Risk
+181,12.4,306,High Risk
+194,17.8,292,High Risk
+216,16.1,146,Moderate Risk
+105,15.4,171,Healthy
+98,13.4,265,Moderate Risk
+151,16.4,210,High Risk
+71,11.4,205,High Risk
+198,15.1,135,Moderate Risk
+116,17.9,185,Healthy
+217,11.1,124,High Risk
+80,14.7,201,Moderate Risk
+199,16.4,250,High Risk
+188,17.2,237,High Risk
+209,15.2,200,Moderate Risk
+89,10.8,189,Moderate Risk
+74,11.3,234,High Risk
+106,8.2,126,Moderate Risk
+235,15.6,169,Moderate Risk
+206,8.4,261,High Risk
+122,16.6,285,Moderate Risk
+241,9.2,230,High Risk
+168,9.7,166,High Risk
+155,12.8,231,High Risk
+177,15.4,280,High Risk
+93,9.4,162,Moderate Risk
+150,12.4,210,High Risk
+227,12.8,148,Moderate Risk
+189,10.1,247,High Risk
+128,9.2,304,High Risk
+197,16.4,252,High Risk
+183,13.0,215,High Risk
+184,8.1,307,High Risk
+83,16.0,236,Moderate Risk
+78,17.8,189,Healthy
+109,14.1,249,Moderate Risk
+94,13.0,189,Healthy
+172,16.8,229,High Risk
+91,17.5,290,Moderate Risk
+73,15.5,251,Moderate Risk
+223,12.5,175,Moderate Risk
+98,13.9,306,Moderate Risk
+178,15.0,208,High Risk
+167,9.9,256,High Risk
+106,12.5,250,Moderate Risk
+144,16.3,295,High Risk
+139,14.5,290,Moderate Risk
+215,12.1,219,High Risk
+197,14.6,248,High Risk
+154,9.2,176,High Risk
+111,12.0,300,Moderate Risk
+169,15.9,263,High Risk
+110,10.2,170,Moderate Risk
+235,9.9,231,High Risk
+103,17.5,223,Moderate Risk
+86,10.1,246,High Risk
+234,10.6,174,High Risk
+222,17.7,120,Moderate Risk
+191,15.3,209,High Risk
+145,15.0,275,High Risk
+156,16.5,172,Moderate Risk
+186,9.2,305,High Risk
+175,15.1,192,Moderate Risk
+155,13.0,307,High Risk
+96,16.3,306,Moderate Risk
+126,13.1,227,Moderate Risk
+100,14.2,269,Moderate Risk
+203,12.8,127,Moderate Risk
+237,12.8,296,High Risk
+167,15.7,161,Moderate Risk
+81,14.3,274,Moderate Risk
+122,14.3,286,Moderate Risk
+207,12.5,144,Moderate Risk
+242,13.3,157,Moderate Risk
+214,15.5,204,High Risk
+223,16.3,271,High Risk
+191,15.0,143,Moderate Risk
+115,17.2,179,Healthy
+133,16.2,297,Moderate Risk
+199,13.6,230,High Risk
+123,14.7,185,Healthy
+176,17.3,261,High Risk
+120,14.2,172,Healthy
+105,16.2,279,Moderate Risk
+184,14.9,225,High Risk
+95,13.5,215,Moderate Risk
+98,10.4,295,High Risk
+218,12.3,158,Moderate Risk
+80,17.7,287,Moderate Risk
+109,14.6,161,Healthy
+80,13.6,230,Moderate Risk
+233,17.3,223,High Risk
+182,13.9,196,Moderate Risk
+108,13.3,127,Healthy
+123,15.6,145,Healthy
+167,15.1,259,High Risk
+124,9.9,162,Moderate Risk
+180,12.7,298,High Risk
+221,12.7,229,High Risk
+219,11.8,219,High Risk
+138,13.2,182,Healthy
+125,12.1,168,Healthy
+102,10.0,234,High Risk
+105,12.1,274,Moderate Risk
+217,8.7,256,High Risk
+150,13.8,286,High Risk
+178,16.5,184,Moderate Risk
+223,15.3,318,High Risk
+142,11.6,190,High Risk
+109,8.9,126,Moderate Risk
+86,10.0,319,High Risk
+198,13.5,199,Moderate Risk
+130,10.1,186,Moderate Risk
+240,13.4,257,High Risk
+173,10.3,318,High Risk
+111,16.5,300,Moderate Risk
+94,12.0,220,Moderate Risk
+108,10.5,214,High Risk
+104,16.1,206,Moderate Risk
+200,11.4,304,High Risk
+177,9.1,210,High Risk
+241,13.7,222,High Risk
+248,13.8,245,High Risk
+171,15.1,274,High Risk
+167,10.4,301,High Risk
+81,12.4,232,Moderate Risk
+88,10.8,123,Moderate Risk
+170,8.8,207,High Risk
+113,16.8,270,Moderate Risk
+118,15.3,295,Moderate Risk
+86,11.0,289,High Risk
+143,14.0,122,Moderate Risk
+126,10.0,210,High Risk
+124,16.9,122,Healthy
+116,9.1,275,High Risk
+81,8.0,310,High Risk
+131,13.0,200,Healthy
+149,13.8,278,High Risk
+152,13.8,257,High Risk
+77,8.5,296,High Risk
+218,11.1,213,High Risk
+150,13.0,245,High Risk
+187,10.2,232,High Risk
+94,16.7,268,Moderate Risk
+158,8.9,219,High Risk
+81,12.9,172,Healthy
+212,14.9,206,High Risk
+128,10.6,208,High Risk
+223,14.2,173,Moderate Risk
+178,16.3,304,High Risk
+95,9.9,139,Moderate Risk
+116,17.2,232,Moderate Risk
+101,13.5,168,Healthy
+79,11.0,254,High Risk
+85,12.3,148,Healthy
+214,11.1,167,High Risk
+220,15.3,132,Moderate Risk
+95,16.0,122,Healthy
+155,16.3,121,Moderate Risk
+204,17.9,135,Moderate Risk
+83,15.9,213,Moderate Risk
+148,14.0,221,High Risk
+186,11.4,253,High Risk
+76,13.4,164,Healthy
+206,8.4,190,High Risk
+184,15.4,252,High Risk
+245,12.5,175,Moderate Risk
+141,8.2,318,High Risk
+128,8.6,246,High Risk
+151,11.9,151,High Risk
+185,13.8,168,Moderate Risk
+236,12.6,132,Moderate Risk
+215,14.2,277,High Risk
+172,12.8,144,Moderate Risk
+86,14.6,179,Healthy
+83,10.2,178,Moderate Risk
+228,9.1,275,High Risk
+221,14.0,177,Moderate Risk
+177,12.8,139,Moderate Risk
+114,8.3,281,High Risk
+167,11.8,252,High Risk
+200,9.1,307,High Risk
+106,13.3,290,Moderate Risk
+240,12.0,176,Moderate Risk
+237,14.1,304,High Risk
+177,16.1,173,Moderate Risk
+108,11.0,231,High Risk
+84,17.6,292,Moderate Risk
+189,13.4,205,High Risk
+73,14.2,156,Healthy
+162,14.8,203,High Risk
+222,14.7,167,Moderate Risk
+210,13.1,237,High Risk
+230,12.3,301,High Risk
+85,8.5,167,Moderate Risk
+239,8.2,231,High Risk
+177,11.6,229,High Risk
+195,11.3,125,High Risk
+124,11.9,281,High Risk
+239,9.4,310,High Risk
+103,15.4,197,Healthy
+227,16.6,295,High Risk
+82,17.4,142,Healthy
+210,12.9,245,High Risk
+87,15.0,203,Moderate Risk
+229,16.6,132,Moderate Risk
+165,12.2,166,Moderate Risk
+192,11.1,163,High Risk
+108,17.4,224,Moderate Risk
+115,13.2,279,Moderate Risk
+98,13.0,273,Moderate Risk
+131,9.8,300,High Risk
+85,9.1,133,Moderate Risk
+190,16.4,299,High Risk
+79,14.1,240,Moderate Risk
+227,11.3,155,High Risk
+222,9.9,127,High Risk
+172,13.6,287,High Risk
+153,13.8,269,High Risk
+202,10.1,135,High Risk
+134,16.5,210,Moderate Risk
+246,8.8,239,High Risk
+72,11.6,307,High Risk
+242,14.8,179,Moderate Risk
+211,10.7,129,High Risk
+189,16.3,272,High Risk
+227,15.4,150,Moderate Risk
+137,15.9,140,Healthy
+215,9.2,200,High Risk
+106,9.4,152,Moderate Risk
+222,10.9,150,High Risk
+245,13.2,268,High Risk
+142,15.5,155,Moderate Risk
+212,16.4,312,High Risk
+118,15.0,251,Moderate Risk
+190,17.3,187,Moderate Risk
+157,15.4,209,High Risk
+209,11.1,251,High Risk
+106,10.7,128,Moderate Risk
+130,15.0,149,Healthy
+240,9.9,234,High Risk
+193,8.9,164,High Risk
+108,13.3,123,Healthy
+132,16.2,188,Healthy
+115,9.0,142,Moderate Risk
+157,15.9,135,Moderate Risk
+80,16.1,141,Healthy
+131,12.8,191,Healthy
+146,8.6,167,High Risk
+222,9.7,309,High Risk
+121,15.1,307,Moderate Risk
+73,15.1,226,Moderate Risk
+128,17.0,252,Moderate Risk
+141,13.8,126,Moderate Risk
+217,9.2,170,High Risk
+162,9.2,184,High Risk
+132,15.2,128,Healthy
+123,9.8,201,High Risk
+186,11.3,164,High Risk
+179,12.9,241,High Risk
+143,8.2,294,High Risk
+176,10.5,314,High Risk
+126,12.1,271,Moderate Risk
+238,10.8,129,High Risk
+72,9.4,192,Moderate Risk
+189,15.3,167,Moderate Risk
+75,16.1,282,Moderate Risk
+74,10.6,301,High Risk
+74,15.7,206,Moderate Risk
+123,11.9,230,High Risk
+116,13.1,318,Moderate Risk
+246,16.6,135,Moderate Risk
+78,15.5,172,Healthy
+168,16.1,159,Moderate Risk
+89,9.4,219,High Risk
+191,8.7,139,High Risk
+130,16.9,188,Healthy
+192,11.9,164,High Risk
+232,10.9,125,High Risk
+247,15.2,316,High Risk
+151,16.4,296,High Risk
+131,16.6,158,Healthy
+214,11.2,221,High Risk
+72,16.5,249,Moderate Risk
+229,8.4,226,High Risk
+82,8.5,158,Moderate Risk
+189,14.2,237,High Risk
+194,8.6,268,High Risk
+158,11.2,287,High Risk
+142,14.7,201,High Risk
+137,11.4,173,Moderate Risk
+211,9.8,229,High Risk
+170,10.8,131,High Risk
+167,12.6,284,High Risk
+80,12.8,229,Moderate Risk
+174,15.8,157,Moderate Risk
+136,15.5,262,Moderate Risk
+192,12.6,126,Moderate Risk
+98,16.5,197,Healthy
+206,9.1,297,High Risk
+222,10.6,184,High Risk
+145,16.3,221,High Risk
+239,11.8,314,High Risk
+78,17.8,220,Moderate Risk
+109,12.7,163,Healthy
+94,15.9,150,Healthy
+74,12.0,290,Moderate Risk
+208,12.2,196,Moderate Risk
+193,11.8,167,High Risk
+107,15.2,201,Moderate Risk
+141,13.5,246,High Risk
+202,17.4,308,High Risk
+245,10.5,203,High Risk
+159,9.0,129,High Risk
+215,11.9,148,High Risk
+106,14.2,167,Healthy
+129,16.6,309,Moderate Risk
+245,11.5,235,High Risk
+97,14.5,132,Healthy
+150,11.5,291,High Risk
+183,14.2,166,Moderate Risk
+109,16.8,222,Moderate Risk
+114,10.3,311,High Risk
+131,12.0,210,Moderate Risk
+162,17.9,172,Moderate Risk
+184,16.7,211,High Risk
+136,13.6,196,Healthy
+125,13.2,163,Healthy
+109,10.8,275,High Risk
+167,13.2,121,Moderate Risk
+109,16.5,220,Moderate Risk
+160,14.9,176,Moderate Risk
+102,10.9,176,Moderate Risk
+75,10.0,153,Moderate Risk
+216,10.7,177,High Risk
+149,9.7,299,High Risk
+237,9.0,276,High Risk
+161,12.2,154,Moderate Risk
+166,9.1,194,High Risk
+128,9.7,295,High Risk
+128,13.5,152,Healthy
+117,9.6,234,High Risk
+238,8.6,194,High Risk
+82,11.2,192,Moderate Risk
+176,10.2,197,High Risk
+114,13.2,128,Healthy
+158,9.0,167,High Risk
+239,15.5,186,Moderate Risk
+169,17.1,283,High Risk
+224,15.4,318,High Risk
+235,13.3,238,High Risk
+76,16.6,291,Moderate Risk
+202,14.9,307,High Risk
+114,8.1,310,High Risk
+127,11.9,252,High Risk
+100,16.5,238,Moderate Risk
+92,11.5,205,High Risk
+239,8.4,225,High Risk
+207,15.5,195,Moderate Risk
+229,16.0,159,Moderate Risk
+176,9.6,138,High Risk
+227,13.4,166,Moderate Risk
+108,9.9,184,Moderate Risk
+228,15.2,314,High Risk
+151,10.7,265,High Risk
+169,11.2,297,High Risk
+71,16.4,149,Healthy
+146,12.8,245,High Risk
+81,14.7,185,Healthy
+108,12.0,124,Healthy
+82,11.0,212,High Risk
+115,14.3,216,Moderate Risk
+224,9.5,289,High Risk
+182,11.7,213,High Risk
+86,10.1,225,High Risk
+173,15.0,252,High Risk
+167,17.4,297,High Risk
+157,18.0,204,High Risk
+178,12.5,177,Moderate Risk
+232,10.5,198,High Risk
+139,12.4,127,Healthy
+227,16.5,278,High Risk
+143,10.1,131,High Risk
+132,17.5,268,Moderate Risk
+225,11.4,213,High Risk
+129,17.9,309,Moderate Risk
+148,16.4,210,High Risk
+106,16.1,152,Healthy
+91,11.2,273,High Risk
+217,8.1,219,High Risk
+165,11.8,287,High Risk
+137,11.0,312,High Risk
+86,8.4,306,High Risk
+81,13.1,134,Healthy
+219,12.0,233,High Risk
+214,14.3,248,High Risk
+207,14.2,130,Moderate Risk
+187,9.2,174,High Risk
+91,17.8,121,Healthy
+189,9.9,184,High Risk
+119,12.5,291,Moderate Risk
+83,12.9,135,Healthy
+244,16.1,269,High Risk
+98,9.0,225,High Risk
+233,12.3,265,High Risk
+249,14.3,294,High Risk
+194,10.2,149,High Risk
+76,14.3,129,Healthy
+98,17.2,305,Moderate Risk
+208,18.0,181,Moderate Risk
+102,8.3,204,High Risk
+203,10.4,253,High Risk
+180,11.1,186,High Risk
+148,12.0,160,Moderate Risk
+229,10.4,290,High Risk
+248,10.0,137,High Risk
+127,17.5,177,Healthy
+95,17.2,179,Healthy
+243,8.5,207,High Risk
+98,11.4,146,Moderate Risk
+73,12.1,187,Healthy
+168,10.4,141,High Risk
+210,14.3,271,High Risk
+108,14.4,159,Healthy
+84,16.5,228,Moderate Risk
+188,15.4,193,Moderate Risk
+98,13.4,185,Healthy
+226,14.5,287,High Risk
+144,10.7,125,High Risk
+185,13.9,231,High Risk
+101,12.9,137,Healthy
+199,9.3,200,High Risk
+244,10.4,221,High Risk
+153,10.9,229,High Risk
+91,17.2,149,Healthy
+96,10.3,241,High Risk
+150,10.9,268,High Risk
+195,11.7,181,High Risk
+161,14.6,257,High Risk
+90,9.2,239,High Risk
+116,17.5,226,Moderate Risk
+170,16.7,260,High Risk
+153,13.8,195,Moderate Risk
+75,14.7,128,Healthy
+216,8.2,315,High Risk
+200,11.4,158,High Risk
+70,16.0,143,Healthy
+127,8.8,244,High Risk
+193,10.8,237,High Risk
+235,13.9,153,Moderate Risk
+84,10.6,180,Moderate Risk
+231,17.3,288,High Risk
+232,9.3,252,High Risk
+133,16.0,198,Healthy
+94,13.1,169,Healthy
+93,15.5,251,Moderate Risk
+81,11.1,170,Moderate Risk
+87,13.1,171,Healthy
+84,16.6,241,Moderate Risk
+96,12.7,286,Moderate Risk
+141,11.6,127,High Risk
+129,13.4,232,Moderate Risk
+243,15.2,164,Moderate Risk
+214,12.4,207,High Risk
+162,17.4,147,Moderate Risk
+122,10.9,238,High Risk
+77,12.8,226,Moderate Risk
+148,15.6,146,Moderate Risk
+96,14.9,312,Moderate Risk
+243,16.6,281,High Risk
+119,18.0,200,Healthy
+200,12.3,220,High Risk
+162,9.1,181,High Risk
+241,8.3,181,High Risk
+93,15.3,285,Moderate Risk
+129,16.7,145,Healthy
+191,10.2,240,High Risk
+200,9.6,143,High Risk
+217,8.6,158,High Risk
+115,16.2,243,Moderate Risk
+84,11.1,140,Moderate Risk
+222,12.0,213,High Risk
+86,13.0,294,Moderate Risk
+195,16.4,234,High Risk
+153,14.5,295,High Risk
+78,14.2,240,Moderate Risk
+235,9.8,132,High Risk
+245,13.1,250,High Risk
+132,15.2,279,Moderate Risk
+186,17.7,282,High Risk
+199,10.0,138,High Risk
+157,8.1,261,High Risk
+141,8.8,295,High Risk
+208,11.8,200,High Risk
+133,16.2,242,Moderate Risk
+141,8.1,187,High Risk
+90,12.6,292,Moderate Risk
+87,11.3,138,Moderate Risk
+133,8.5,183,Moderate Risk
+151,12.5,220,High Risk
+179,10.5,185,High Risk
+164,11.5,185,High Risk
+235,15.1,194,Moderate Risk
+101,13.2,164,Healthy
+80,9.2,206,High Risk
+114,17.6,186,Healthy
+102,14.4,316,Moderate Risk
+171,15.7,122,Moderate Risk
+238,8.8,285,High Risk
+205,8.5,289,High Risk
+80,8.2,287,High Risk
+248,9.9,297,High Risk
+157,12.1,282,High Risk
+110,17.4,143,Healthy
+214,12.6,207,High Risk
+145,10.9,136,High Risk
+190,13.6,159,Moderate Risk
+115,9.1,313,High Risk
+229,14.1,291,High Risk
+149,13.7,270,High Risk
+123,15.9,125,Healthy
+155,17.9,313,High Risk
+161,10.5,268,High Risk
+217,13.1,238,High Risk
+230,17.1,239,High Risk
+237,15.9,154,Moderate Risk
+229,12.9,232,High Risk
+166,17.5,148,Moderate Risk
+71,8.6,126,Moderate Risk
+102,17.3,172,Healthy
+227,8.5,284,High Risk
+230,13.5,142,Moderate Risk
+146,16.9,216,High Risk
+185,10.6,255,High Risk
+223,12.7,195,Moderate Risk
+219,11.2,295,High Risk
+172,17.5,129,Moderate Risk
+235,16.2,236,High Risk
+172,15.1,143,Moderate Risk
+159,13.9,294,High Risk
+243,16.2,300,High Risk
+191,11.9,158,High Risk
+212,12.5,314,High Risk
+175,15.3,185,Moderate Risk
+188,11.6,125,High Risk
+241,8.6,140,High Risk
+118,8.7,192,Moderate Risk
+173,9.2,193,High Risk
+130,16.7,155,Healthy
+192,12.7,250,High Risk
+203,15.1,289,High Risk
+78,11.9,292,High Risk
+75,10.6,163,Moderate Risk
+142,11.5,210,High Risk
+172,15.9,280,High Risk
+229,14.3,179,Moderate Risk
+110,17.4,212,Moderate Risk
+183,14.8,202,High Risk
+77,13.7,317,Moderate Risk
+141,14.1,202,High Risk
+247,17.4,196,Moderate Risk
+161,15.9,145,Moderate Risk
+131,8.2,140,Moderate Risk
+153,13.3,239,High Risk
+131,14.9,249,Moderate Risk
+180,15.5,294,High Risk
+196,10.1,227,High Risk
+76,16.7,277,Moderate Risk
+153,17.6,146,Moderate Risk
+201,10.4,190,High Risk
+203,16.8,267,High Risk
+127,9.0,169,Moderate Risk
+91,8.6,214,High Risk
+223,9.3,142,High Risk
+196,8.6,260,High Risk
+72,16.5,200,Healthy
+196,8.6,251,High Risk
+110,10.7,261,High Risk
+175,9.0,139,High Risk
+83,11.0,243,High Risk
+81,8.9,132,Moderate Risk
+156,14.7,122,Moderate Risk
+81,9.3,294,High Risk
+210,16.5,250,High Risk
+94,16.2,248,Moderate Risk
+114,8.1,209,High Risk
+191,17.0,271,High Risk
+216,8.3,154,High Risk
+124,10.4,133,Moderate Risk
+169,8.3,314,High Risk
+242,11.4,260,High Risk
+205,13.1,294,High Risk
+188,16.0,169,Moderate Risk
+122,11.4,197,Moderate Risk
+101,15.1,273,Moderate Risk
+120,9.9,122,Moderate Risk
+113,15.5,298,Moderate Risk
+151,10.4,159,High Risk
+215,9.4,315,High Risk
+219,9.9,283,High Risk
+106,9.8,170,Moderate Risk
+165,13.1,120,Moderate Risk
+125,16.4,223,Moderate Risk
+174,8.8,280,High Risk
+128,15.1,254,Moderate Risk
+200,14.5,236,High Risk
+225,16.7,235,High Risk
+104,10.4,171,Moderate Risk
+162,12.5,239,High Risk
+166,17.3,258,High Risk
+204,14.6,274,High Risk
+145,11.9,261,High Risk
+118,9.3,205,High Risk
+163,10.6,165,High Risk
+228,13.8,195,Moderate Risk
+93,15.2,129,Healthy
+217,9.2,271,High Risk
+106,14.0,180,Healthy
+73,13.5,137,Healthy
+177,13.1,205,High Risk
+195,14.9,256,High Risk
+89,16.4,264,Moderate Risk
+221,11.2,247,High Risk
+119,16.9,223,Moderate Risk
+246,9.6,305,High Risk
+248,9.7,260,High Risk
+165,10.7,297,High Risk
+174,9.2,220,High Risk
+233,10.3,125,High Risk
+186,9.1,204,High Risk
+167,16.2,170,Moderate Risk
+135,9.4,155,Moderate Risk
+148,15.5,190,Moderate Risk
+231,8.5,219,High Risk
+233,17.5,144,Moderate Risk
+75,15.1,258,Moderate Risk
+108,8.1,163,Moderate Risk
+239,15.6,133,Moderate Risk
+184,13.1,148,Moderate Risk
+194,15.8,193,Moderate Risk
+81,13.2,169,Healthy
+200,14.4,124,Moderate Risk
+87,15.9,319,Moderate Risk
+109,12.1,229,Moderate Risk
+90,8.0,316,High Risk
+212,16.5,241,High Risk
+168,11.8,207,High Risk
+95,13.0,176,Healthy
+77,8.1,145,Moderate Risk
+169,12.9,125,Moderate Risk
+156,17.9,263,High Risk
+111,10.8,179,Moderate Risk
+241,12.0,219,High Risk
+83,14.9,131,Healthy
+147,16.1,194,Moderate Risk
+71,12.2,122,Healthy
+188,11.1,182,High Risk
+106,17.4,311,Moderate Risk
+138,14.8,309,Moderate Risk
+235,9.2,253,High Risk
+110,8.7,138,Moderate Risk
+131,12.8,137,Healthy
+129,10.2,199,Moderate Risk
+194,10.5,290,High Risk
+180,16.8,192,Moderate Risk
+83,8.9,250,High Risk
+153,15.2,245,High Risk
+199,10.7,191,High Risk
+139,15.6,157,Healthy
+214,15.2,187,Moderate Risk
+192,8.1,291,High Risk
+158,13.1,199,Moderate Risk
+97,9.4,310,High Risk
+135,16.7,161,Healthy
+232,16.7,183,Moderate Risk
+74,12.2,301,Moderate Risk
+237,12.4,197,Moderate Risk
+233,11.0,246,High Risk
+114,15.2,224,Moderate Risk
+220,11.6,318,High Risk
+116,10.7,195,Moderate Risk
+100,12.3,284,Moderate Risk
+208,8.9,251,High Risk
+79,15.5,249,Moderate Risk
+187,8.1,241,High Risk
+83,14.4,163,Healthy
+149,9.8,314,High Risk
+162,10.3,315,High Risk
+79,14.4,221,Moderate Risk
+145,17.9,181,Moderate Risk
+163,15.8,120,Moderate Risk
+174,10.3,136,High Risk
+70,9.8,135,Moderate Risk
+202,16.7,128,Moderate Risk
+89,12.4,300,Moderate Risk
+77,9.4,178,Moderate Risk
+240,16.6,238,High Risk
+70,16.2,256,Moderate Risk
+126,17.8,259,Moderate Risk
+133,17.1,238,Moderate Risk
+187,16.5,160,Moderate Risk
+97,8.5,262,High Risk
+190,9.0,185,High Risk
+176,13.7,194,Moderate Risk
+234,13.3,130,Moderate Risk
+244,12.6,127,Moderate Risk
+234,12.0,302,High Risk
+118,12.3,253,Moderate Risk
+189,13.7,300,High Risk
+113,8.0,267,High Risk
+125,10.6,286,High Risk
+225,13.2,218,High Risk
+180,15.2,191,Moderate Risk
+203,9.7,232,High Risk
+177,13.5,226,High Risk
+217,15.1,153,Moderate Risk
+183,12.4,176,Moderate Risk
+147,8.3,236,High Risk
+199,12.5,239,High Risk
+106,11.0,266,High Risk
+89,17.3,190,Healthy
+95,9.2,278,High Risk
+98,14.5,159,Healthy
+70,8.5,261,High Risk
+188,12.5,222,High Risk
+104,13.5,243,Moderate Risk
+128,11.0,242,High Risk
+138,12.6,219,Moderate Risk
+230,9.6,284,High Risk
+248,11.0,291,High Risk
+81,14.2,256,Moderate Risk
+89,11.0,177,Moderate Risk
+112,17.0,267,Moderate Risk
+195,14.3,228,High Risk
+119,12.4,240,Moderate Risk
+98,8.4,211,High Risk
+108,13.0,169,Healthy
+240,15.6,267,High Risk
+247,10.7,224,High Risk
+220,16.1,283,High Risk
+241,10.5,236,High Risk
+107,16.2,146,Healthy
+153,8.9,319,High Risk
+220,16.7,151,Moderate Risk
+197,13.0,120,Moderate Risk
+195,11.0,136,High Risk
+114,10.7,256,High Risk
+121,12.3,203,Moderate Risk
+149,18.0,164,Moderate Risk
+247,10.2,185,High Risk
+193,9.0,151,High Risk
+188,13.9,164,Moderate Risk
+77,12.9,128,Healthy
+154,13.2,149,Moderate Risk
+198,14.7,203,High Risk
+77,10.7,285,High Risk
+226,17.1,179,Moderate Risk
+165,12.4,120,Moderate Risk
+171,9.3,124,High Risk
+74,15.4,182,Healthy
+155,14.4,283,High Risk
+244,11.2,184,High Risk
+103,14.2,197,Healthy
+124,10.2,271,High Risk
+188,12.4,251,High Risk
+240,17.0,233,High Risk
+227,9.3,315,High Risk
+183,11.9,144,High Risk
+214,16.2,254,High Risk
+95,17.7,260,Moderate Risk
+205,12.5,315,High Risk
+116,13.1,162,Healthy
+182,13.7,176,Moderate Risk
+145,17.3,283,High Risk
+141,16.6,261,High Risk
+158,9.7,191,High Risk
+115,12.4,146,Healthy
+102,12.6,247,Moderate Risk
+70,15.9,225,Moderate Risk
+216,14.0,284,High Risk
+100,14.5,190,Healthy
+211,18.0,272,High Risk
+122,8.7,186,Moderate Risk
+117,10.2,209,High Risk
+138,12.1,123,Healthy
+174,11.5,225,High Risk
+159,8.2,198,High Risk
+132,8.9,215,High Risk
+142,14.8,212,High Risk
+230,16.8,193,Moderate Risk
+238,13.1,245,High Risk
+158,13.4,135,Moderate Risk
+245,10.6,266,High Risk
+82,15.7,276,Moderate Risk
+142,15.5,235,High Risk
+146,13.9,298,High Risk
+228,10.1,137,High Risk
+137,9.0,305,High Risk
+167,8.6,291,High Risk
+194,13.9,135,Moderate Risk
+171,16.3,312,High Risk
+201,16.6,249,High Risk
+171,12.6,175,Moderate Risk
+88,15.8,198,Healthy
+151,17.5,222,High Risk
+210,10.8,147,High Risk
+92,12.0,312,Moderate Risk
+152,17.3,124,Moderate Risk
+178,11.4,225,High Risk
+144,17.1,141,Moderate Risk
+198,17.8,236,High Risk
+157,14.6,219,High Risk
+123,16.2,132,Healthy
+158,15.5,184,Moderate Risk
+212,15.0,263,High Risk
+134,11.1,205,High Risk
+145,8.6,183,High Risk
+212,11.4,151,High Risk
+218,14.7,199,Moderate Risk
+216,9.0,170,High Risk
+129,8.1,198,Moderate Risk
+162,9.4,305,High Risk
+230,15.2,293,High Risk
+118,17.7,299,Moderate Risk
+104,17.8,225,Moderate Risk
+241,12.9,182,Moderate Risk
+171,16.7,195,Moderate Risk
+80,15.4,179,Healthy
+168,13.0,184,Moderate Risk
+179,13.7,236,High Risk
+143,9.4,200,High Risk
+243,17.4,224,High Risk
+78,11.5,247,High Risk
+72,12.5,302,Moderate Risk
+154,14.7,304,High Risk
+95,11.3,190,Moderate Risk
+141,10.5,205,High Risk
+117,14.3,273,Moderate Risk
+225,8.2,259,High Risk
+186,15.2,190,Moderate Risk
+223,13.1,165,Moderate Risk
+222,14.1,166,Moderate Risk
+81,14.3,198,Healthy
+202,13.3,285,High Risk
+117,13.8,268,Moderate Risk
+106,14.8,261,Moderate Risk
+113,15.5,249,Moderate Risk
+84,15.3,319,Moderate Risk
+112,16.7,246,Moderate Risk
+245,9.9,228,High Risk
+156,12.0,238,High Risk
+139,17.5,317,Moderate Risk
+115,12.0,220,Moderate Risk
+177,9.2,280,High Risk
+192,13.3,125,Moderate Risk
+240,9.1,245,High Risk
+90,10.0,222,High Risk
+220,18.0,156,Moderate Risk
+176,13.4,261,High Risk
+149,10.8,156,High Risk
+116,17.9,127,Healthy
+186,17.7,196,Moderate Risk
+193,12.4,260,High Risk
+212,10.6,159,High Risk
+94,16.4,226,Moderate Risk
+105,15.2,211,Moderate Risk
+120,14.9,305,Moderate Risk
+84,16.9,137,Healthy
+137,14.9,176,Healthy
+90,10.8,202,High Risk
+210,14.9,285,High Risk
+88,11.1,151,Moderate Risk
+103,15.6,313,Moderate Risk
+147,14.2,144,Moderate Risk
+194,8.8,305,High Risk
+186,13.1,152,Moderate Risk
+121,11.4,207,High Risk
+96,11.3,313,High Risk
+226,14.0,277,High Risk
+225,11.2,223,High Risk
+104,15.8,153,Healthy
+205,8.7,221,High Risk
+213,14.6,246,High Risk
+175,16.1,188,Moderate Risk
+233,14.7,295,High Risk
+227,13.0,159,Moderate Risk
+215,17.5,298,High Risk
+71,11.0,199,Moderate Risk
+246,8.2,260,High Risk
+146,12.3,150,Moderate Risk
+201,8.3,235,High Risk
+159,17.5,286,High Risk
+158,10.1,182,High Risk
+163,15.9,167,Moderate Risk
+76,15.7,206,Moderate Risk
+164,10.2,167,High Risk
+177,14.2,180,Moderate Risk
+143,8.5,259,High Risk
+108,12.8,197,Healthy
+210,8.1,303,High Risk
+228,17.2,137,Moderate Risk
+140,17.8,274,Moderate Risk
+125,10.2,147,Moderate Risk
+239,10.1,199,High Risk
+111,15.5,299,Moderate Risk
+105,10.5,135,Moderate Risk
+153,17.0,196,Moderate Risk
+187,13.7,305,High Risk
+76,11.5,256,High Risk
+123,16.3,145,Healthy
+198,12.9,147,Moderate Risk
+241,17.1,224,High Risk
+189,17.3,196,Moderate Risk
+242,9.7,283,High Risk
+175,8.0,128,High Risk
+116,17.8,294,Moderate Risk
+192,17.1,170,Moderate Risk
+210,8.6,195,High Risk
+188,16.3,241,High Risk
+219,12.6,304,High Risk
+187,10.6,151,High Risk
+90,16.8,314,Moderate Risk
+206,10.0,176,High Risk
+95,17.5,173,Healthy
+78,10.1,235,High Risk
+84,14.1,263,Moderate Risk
+79,10.2,181,Moderate Risk
+191,13.5,203,High Risk
+190,14.8,175,Moderate Risk
+194,9.9,142,High Risk
+239,13.2,136,Moderate Risk
+141,12.7,285,High Risk
+221,8.7,319,High Risk
+118,16.2,277,Moderate Risk
+223,11.4,305,High Risk
+160,13.7,197,Moderate Risk
+106,13.1,141,Healthy
+137,13.1,227,Moderate Risk
+119,9.1,136,Moderate Risk
+221,12.2,134,Moderate Risk
+88,12.5,233,Moderate Risk
+169,15.3,167,Moderate Risk
+129,16.4,279,Moderate Risk
+236,13.4,232,High Risk
+158,8.9,287,High Risk
+215,10.4,216,High Risk
+216,9.6,304,High Risk
+233,9.2,305,High Risk
+138,11.7,210,High Risk
+244,10.3,135,High Risk
+118,10.2,275,High Risk
+177,8.5,217,High Risk
+230,8.2,230,High Risk
+188,9.0,120,High Risk
+218,9.7,160,High Risk
+219,12.3,167,Moderate Risk
+245,13.1,278,High Risk
+106,9.4,283,High Risk
+212,12.2,227,High Risk
+232,11.4,280,High Risk
+229,9.8,280,High Risk
+80,8.1,222,High Risk
+207,12.7,247,High Risk
+147,14.9,270,High Risk
+146,10.3,307,High Risk
+222,9.3,149,High Risk
+71,16.9,164,Healthy
+133,10.8,199,Moderate Risk
+104,10.2,158,Moderate Risk
+76,16.6,164,Healthy
+154,16.2,197,Moderate Risk
+215,12.5,200,Moderate Risk
+136,12.9,259,Moderate Risk
+111,10.2,212,High Risk
+187,8.8,151,High Risk
+194,13.7,303,High Risk
+236,9.0,143,High Risk
+238,12.5,235,High Risk
+93,17.4,132,Healthy
+115,17.5,267,Moderate Risk
+88,10.4,198,Moderate Risk
+137,14.2,175,Healthy
+171,12.7,172,Moderate Risk
+111,16.8,187,Healthy
+101,10.7,301,High Risk
+236,8.0,153,High Risk
+178,9.6,147,High Risk
+105,11.5,169,Moderate Risk
+166,11.2,249,High Risk
+233,15.9,230,High Risk
+200,14.8,213,High Risk
+142,11.0,273,High Risk
+205,12.6,298,High Risk
+166,9.0,166,High Risk
+192,17.0,145,Moderate Risk
+139,17.4,203,Moderate Risk
+238,17.8,225,High Risk
+82,16.7,211,Moderate Risk
+118,9.7,239,High Risk
+129,8.5,194,Moderate Risk
+199,13.8,241,High Risk
+74,17.1,308,Moderate Risk
+241,9.8,270,High Risk
+96,8.1,284,High Risk
+229,16.1,160,Moderate Risk
+218,8.8,171,High Risk
+77,12.1,201,Moderate Risk
+119,14.8,296,Moderate Risk
+136,10.4,274,High Risk
+113,8.8,253,High Risk
+194,15.7,193,Moderate Risk
+127,14.3,185,Healthy
+72,17.9,143,Healthy
+155,11.4,285,High Risk
+139,8.6,147,Moderate Risk
+199,15.3,275,High Risk
+241,13.2,236,High Risk
+71,10.1,233,High Risk
+171,15.8,313,High Risk
+104,10.0,180,Moderate Risk
+167,10.6,293,High Risk
+99,8.9,188,Moderate Risk
+185,12.0,233,High Risk
+77,12.2,194,Healthy
+219,13.1,290,High Risk
+113,15.1,178,Healthy
+105,17.1,249,Moderate Risk
+146,9.4,134,High Risk
+100,8.5,224,High Risk
+116,8.2,284,High Risk
+124,9.4,318,High Risk
+175,14.6,267,High Risk
+227,15.3,217,High Risk
+190,15.9,154,Moderate Risk
+124,10.4,281,High Risk
+213,11.1,150,High Risk
+81,12.8,246,Moderate Risk
+214,8.6,138,High Risk
+213,14.1,315,High Risk
+209,17.8,143,Moderate Risk
+205,11.6,203,High Risk
+72,15.5,286,Moderate Risk
+213,13.0,211,High Risk
+99,9.3,301,High Risk
+92,13.8,286,Moderate Risk
+161,11.0,264,High Risk
+184,8.3,266,High Risk
+173,14.3,237,High Risk
+187,16.6,295,High Risk
+74,11.4,282,High Risk
+173,11.9,279,High Risk
+177,16.9,294,High Risk
+134,16.1,166,Healthy
+190,15.1,311,High Risk
+99,10.5,293,High Risk
+218,17.1,222,High Risk
+153,9.5,240,High Risk
+219,14.3,282,High Risk
+101,8.3,213,High Risk
+230,14.4,264,High Risk
+85,10.8,161,Moderate Risk
+107,12.5,230,Moderate Risk
+211,11.5,148,High Risk
+105,9.7,317,High Risk
+220,14.2,243,High Risk
+183,16.8,136,Moderate Risk
+135,17.6,133,Healthy
+174,9.9,271,High Risk
+154,15.2,304,High Risk
+71,14.6,169,Healthy
+144,11.4,176,High Risk
+136,8.2,308,High Risk
+249,14.9,223,High Risk
+220,17.5,158,Moderate Risk
+223,14.3,302,High Risk
+124,12.4,215,Moderate Risk
+75,13.3,155,Healthy
+232,10.0,233,High Risk
+219,15.5,156,Moderate Risk
+240,15.5,133,Moderate Risk
+212,9.5,274,High Risk
+155,16.8,242,High Risk
+129,10.7,202,High Risk
+170,17.8,278,High Risk
+81,11.8,192,Moderate Risk
+118,9.8,221,High Risk
+111,11.5,200,Moderate Risk
+235,12.4,202,High Risk
+151,8.7,163,High Risk
+242,13.8,187,Moderate Risk
+104,14.0,167,Healthy
+227,15.4,176,Moderate Risk
+227,8.3,194,High Risk
+203,13.4,141,Moderate Risk
+136,8.5,251,High Risk
+149,15.0,319,High Risk
+76,8.6,165,Moderate Risk
+249,17.1,306,High Risk
+83,15.0,281,Moderate Risk
+142,13.1,130,Moderate Risk
+212,12.4,150,Moderate Risk
+218,9.3,258,High Risk
+232,10.9,239,High Risk
+135,16.7,175,Healthy
+160,17.0,157,Moderate Risk
+199,8.0,140,High Risk
+232,13.9,229,High Risk
+89,15.2,213,Moderate Risk
+79,14.2,257,Moderate Risk
+94,8.8,273,High Risk
+94,10.2,255,High Risk
+123,10.5,127,Moderate Risk
+102,16.3,307,Moderate Risk
+233,12.6,191,Moderate Risk
+164,12.9,238,High Risk
+83,17.3,153,Healthy
+134,14.4,263,Moderate Risk
+179,17.0,224,High Risk
+149,12.6,260,High Risk
+123,9.5,206,High Risk
+194,17.3,269,High Risk
+249,12.6,274,High Risk
+200,9.8,183,High Risk
+238,11.0,121,High Risk
+203,8.5,228,High Risk
+94,12.7,145,Healthy
+210,16.5,202,High Risk
+186,17.3,226,High Risk
+205,17.3,188,Moderate Risk
+218,9.3,216,High Risk
+94,11.8,149,Moderate Risk
+148,8.3,127,High Risk
+137,16.6,157,Healthy
+242,11.6,308,High Risk
+81,14.3,200,Healthy
+101,15.1,227,Moderate Risk
+197,12.3,184,Moderate Risk
+165,11.1,186,High Risk
+161,17.6,293,High Risk
+210,17.6,209,High Risk
+100,10.9,214,High Risk
+147,12.8,191,Moderate Risk
+89,17.7,162,Healthy
+215,8.0,306,High Risk
+129,12.1,165,Healthy
+203,9.0,319,High Risk
+229,13.1,244,High Risk
+162,8.2,282,High Risk
+112,12.1,158,Healthy
+199,10.2,170,High Risk
+129,13.3,123,Healthy
+220,18.0,240,High Risk
+100,16.0,199,Healthy
+74,16.5,196,Healthy
+231,14.4,298,High Risk
+79,8.4,252,High Risk
+158,10.1,174,High Risk
+199,17.3,139,Moderate Risk
+195,11.7,271,High Risk
+80,9.0,283,High Risk
+247,15.0,153,Moderate Risk
+228,11.0,241,High Risk
+125,10.7,228,High Risk
+152,18.0,245,High Risk
+206,16.6,173,Moderate Risk
+168,12.1,281,High Risk
+218,17.8,264,High Risk
+142,14.5,252,High Risk
+225,15.4,208,High Risk
+184,8.3,265,High Risk
+76,9.2,302,High Risk
+149,14.3,172,Moderate Risk
+213,17.0,169,Moderate Risk
+166,14.2,191,Moderate Risk
+73,9.3,292,High Risk
+73,9.2,260,High Risk
+172,16.4,135,Moderate Risk
+109,9.4,132,Moderate Risk
+86,13.2,139,Healthy
+170,8.4,185,High Risk
+172,8.8,166,High Risk
+193,14.7,266,High Risk
+121,14.9,292,Moderate Risk
+121,11.4,284,High Risk
+233,10.2,241,High Risk
+193,16.1,173,Moderate Risk
+235,10.2,125,High Risk
+247,13.4,133,Moderate Risk
+132,17.7,251,Moderate Risk
+185,9.5,205,High Risk
+131,17.4,302,Moderate Risk
+76,9.8,281,High Risk
+224,13.7,146,Moderate Risk
+161,11.8,126,High Risk
+83,17.6,250,Moderate Risk
+155,10.7,294,High Risk
+202,12.0,121,Moderate Risk
+199,17.8,199,Moderate Risk
+131,13.4,272,Moderate Risk
+218,13.0,179,Moderate Risk
+148,10.6,143,High Risk
+218,15.0,134,Moderate Risk
+207,8.1,214,High Risk
+127,8.5,261,High Risk
+189,14.0,301,High Risk
+236,11.4,253,High Risk
+202,17.5,200,Moderate Risk
+134,17.0,137,Healthy
+82,15.1,139,Healthy
+151,16.2,234,High Risk
+242,14.7,309,High Risk
+229,9.3,159,High Risk
+233,15.7,158,Moderate Risk
+208,10.1,299,High Risk
+218,11.2,151,High Risk
+121,16.2,243,Moderate Risk
+186,13.4,227,High Risk
+95,16.6,146,Healthy
+103,10.1,229,High Risk
+121,14.1,299,Moderate Risk
+181,8.8,216,High Risk
+151,14.4,310,High Risk
+249,15.6,193,Moderate Risk
+226,13.8,310,High Risk
+235,10.7,136,High Risk
+111,8.3,168,Moderate Risk
+90,9.2,200,Moderate Risk
+111,14.2,235,Moderate Risk
+210,17.3,142,Moderate Risk
+182,10.1,217,High Risk
+174,15.4,191,Moderate Risk
+86,16.7,260,Moderate Risk
+189,13.2,270,High Risk
+206,14.7,176,Moderate Risk
+238,16.2,309,High Risk
+198,10.6,301,High Risk
+199,11.0,267,High Risk
+129,8.0,205,High Risk
+117,17.6,299,Moderate Risk
+98,17.2,142,Healthy
+166,15.6,224,High Risk
+79,8.8,282,High Risk
+127,12.5,186,Healthy
+90,9.0,153,Moderate Risk
+97,8.2,152,Moderate Risk
+103,14.2,165,Healthy
+77,17.6,200,Healthy
+246,17.0,292,High Risk
+148,15.0,266,High Risk
+214,9.0,206,High Risk
+156,10.7,134,High Risk
+157,11.2,242,High Risk
+242,15.6,240,High Risk
+138,16.0,197,Healthy
+229,11.9,185,High Risk
+241,12.2,158,Moderate Risk
+156,8.4,137,High Risk
+170,10.9,317,High Risk
+77,12.5,306,Moderate Risk
+146,9.2,279,High Risk
+156,12.5,140,Moderate Risk
+112,16.5,287,Moderate Risk
+198,13.8,146,Moderate Risk
+178,8.8,121,High Risk
+248,9.9,216,High Risk
+221,12.7,158,Moderate Risk
+221,11.6,175,High Risk
+86,11.6,226,High Risk
+202,13.3,246,High Risk
+217,13.8,132,Moderate Risk
+90,16.0,245,Moderate Risk
+127,11.4,303,High Risk
+228,16.1,313,High Risk
+179,11.4,175,High Risk
+208,8.6,147,High Risk
+249,13.5,183,Moderate Risk
+212,13.9,190,Moderate Risk
+204,17.3,311,High Risk
+97,15.3,303,Moderate Risk
+120,17.2,288,Moderate Risk
+74,17.1,238,Moderate Risk
+74,14.0,219,Moderate Risk
+163,13.3,160,Moderate Risk
+165,13.6,123,Moderate Risk
+77,17.8,304,Moderate Risk
+133,15.7,277,Moderate Risk
+207,9.1,207,High Risk
+107,15.8,203,Moderate Risk
+180,9.7,165,High Risk
+181,12.5,303,High Risk
+150,10.1,278,High Risk
+205,14.9,207,High Risk
+173,16.8,126,Moderate Risk
+222,10.9,196,High Risk
+142,8.8,301,High Risk
+247,11.0,255,High Risk
+118,14.7,302,Moderate Risk
+105,11.3,316,High Risk
+195,10.8,291,High Risk
+137,9.8,260,High Risk
+147,13.0,212,High Risk
+174,10.8,139,High Risk
+238,15.3,197,Moderate Risk
+191,8.8,279,High Risk
+188,14.6,307,High Risk
+183,10.4,297,High Risk
+79,12.9,146,Healthy
+218,10.9,239,High Risk
+233,15.2,144,Moderate Risk
+209,17.5,171,Moderate Risk
+160,17.2,315,High Risk
+71,13.8,140,Healthy
+187,12.6,137,Moderate Risk
+82,16.2,158,Healthy
+229,14.8,134,Moderate Risk
+164,9.8,172,High Risk
+213,16.2,157,Moderate Risk
+101,12.3,295,Moderate Risk
+101,9.9,171,Moderate Risk
+193,10.8,191,High Risk
+80,10.7,147,Moderate Risk
+79,13.2,263,Moderate Risk
+84,10.3,237,High Risk
+86,9.2,263,High Risk
+237,9.2,154,High Risk
+215,13.8,264,High Risk
+222,15.3,218,High Risk
+128,11.2,171,Moderate Risk
+147,8.3,259,High Risk
+193,9.3,202,High Risk
+183,17.1,167,Moderate Risk
+91,12.9,141,Healthy
+227,12.5,242,High Risk
+241,8.4,246,High Risk
+101,15.3,296,Moderate Risk
+248,13.3,171,Moderate Risk
+243,10.0,198,High Risk
+182,9.1,248,High Risk
+189,11.8,185,High Risk
+218,16.4,183,Moderate Risk
+191,16.7,127,Moderate Risk
+101,14.0,144,Healthy
+188,15.3,313,High Risk
+108,9.2,317,High Risk
+81,13.9,213,Moderate Risk
+244,14.7,298,High Risk
+87,10.0,300,High Risk
+218,16.8,134,Moderate Risk
+210,9.9,297,High Risk
+218,11.1,318,High Risk
+195,14.2,241,High Risk
+205,14.4,194,Moderate Risk
+115,15.0,223,Moderate Risk
+173,9.1,157,High Risk
+204,16.5,287,High Risk
+220,13.3,313,High Risk
+155,12.7,234,High Risk
+219,17.8,158,Moderate Risk
+158,15.4,227,High Risk
+91,9.2,136,Moderate Risk
+161,15.6,254,High Risk
+98,9.0,237,High Risk
+82,8.3,158,Moderate Risk
+71,12.0,315,Moderate Risk
+98,17.9,154,Healthy
+249,9.7,170,High Risk
+96,14.7,166,Healthy
+119,9.7,155,Moderate Risk
+164,15.2,183,Moderate Risk
+220,13.1,214,High Risk
+157,14.8,224,High Risk
+113,10.0,132,Moderate Risk
+91,15.5,265,Moderate Risk
+240,18.0,268,High Risk
+234,14.7,231,High Risk
+166,12.9,184,Moderate Risk
+72,17.2,127,Healthy
+187,8.2,167,High Risk
+88,15.3,204,Moderate Risk
+92,16.9,162,Healthy
+226,8.6,300,High Risk
+99,12.5,204,Moderate Risk
+108,10.0,274,High Risk
+177,13.7,138,Moderate Risk
+180,14.5,142,Moderate Risk
+94,11.0,234,High Risk
+197,12.6,169,Moderate Risk
+180,10.8,298,High Risk
+205,11.7,162,High Risk
+175,9.6,218,High Risk
+213,16.9,223,High Risk
+141,8.1,235,High Risk
+198,16.8,170,Moderate Risk
+177,13.7,225,High Risk
+74,11.3,231,High Risk
+72,15.2,316,Moderate Risk
+201,13.1,288,High Risk
+173,13.0,191,Moderate Risk
+133,9.1,258,High Risk
+175,11.9,199,High Risk
+167,10.4,299,High Risk
+79,8.2,270,High Risk
+218,11.6,168,High Risk
+197,8.9,285,High Risk
+115,10.6,166,Moderate Risk
+224,8.9,191,High Risk
+135,9.0,126,Moderate Risk
+238,10.0,185,High Risk
+181,18.0,196,Moderate Risk
+82,8.0,181,Moderate Risk
+206,14.4,276,High Risk
+233,9.4,157,High Risk
+155,17.2,244,High Risk
+159,8.9,203,High Risk
+127,17.6,280,Moderate Risk
+123,14.1,148,Healthy
+81,8.0,233,High Risk
+83,16.9,198,Healthy
+190,13.2,142,Moderate Risk
+231,10.6,225,High Risk
+190,15.7,250,High Risk
+89,17.3,220,Moderate Risk
+144,12.8,292,High Risk
+213,11.2,127,High Risk
+139,15.9,205,Moderate Risk
+125,14.8,236,Moderate Risk
+170,16.9,148,Moderate Risk
+201,14.9,121,Moderate Risk
+180,10.4,232,High Risk
+194,17.3,297,High Risk
+201,9.0,184,High Risk
+89,10.7,227,High Risk
+207,13.2,139,Moderate Risk
+93,13.7,299,Moderate Risk
+223,8.2,156,High Risk
+106,15.8,191,Healthy
+123,11.6,146,Moderate Risk
+172,12.1,294,High Risk
+218,16.1,242,High Risk
+107,11.8,253,High Risk
+243,8.5,307,High Risk
+73,9.8,164,Moderate Risk
+126,17.6,291,Moderate Risk
+242,8.7,202,High Risk
+89,11.5,265,High Risk
+86,13.0,239,Moderate Risk
+188,12.9,184,Moderate Risk
+140,8.0,144,Moderate Risk
+73,13.0,146,Healthy
+83,11.8,254,High Risk
+72,17.7,291,Moderate Risk
+149,9.6,225,High Risk
+124,11.5,276,High Risk
+201,12.2,163,Moderate Risk
+189,11.9,226,High Risk
+93,14.7,155,Healthy
+231,10.2,266,High Risk
+227,10.2,125,High Risk
+151,15.3,272,High Risk
+216,13.0,278,High Risk
+228,12.2,128,Moderate Risk
+129,9.7,284,High Risk
+216,9.9,274,High Risk
+118,8.1,132,Moderate Risk
+132,8.9,160,Moderate Risk
+179,13.6,247,High Risk
+219,16.9,185,Moderate Risk
+221,10.9,204,High Risk
+178,11.3,143,High Risk
+145,9.2,163,High Risk
+99,11.9,225,High Risk
+127,8.4,217,High Risk
+186,17.2,179,Moderate Risk
+228,14.7,128,Moderate Risk
+169,17.9,249,High Risk
+88,16.8,175,Healthy
+245,12.7,277,High Risk
+242,13.2,141,Moderate Risk
+163,9.9,200,High Risk
+182,12.6,219,High Risk
+215,17.0,132,Moderate Risk
+132,8.5,190,Moderate Risk
+185,16.6,135,Moderate Risk
+182,11.4,164,High Risk
+116,17.0,184,Healthy
+126,17.4,258,Moderate Risk
+187,14.7,189,Moderate Risk
+114,14.6,267,Moderate Risk
+230,12.5,218,High Risk
+214,16.4,310,High Risk
+73,17.6,220,Moderate Risk
+217,15.8,224,High Risk
+116,14.2,259,Moderate Risk
+212,14.1,309,High Risk
+116,16.5,213,Moderate Risk
+147,13.4,161,Moderate Risk
+193,16.0,202,High Risk
+144,13.1,316,High Risk
+172,8.6,305,High Risk
+206,11.8,252,High Risk
+159,12.4,224,High Risk
+213,9.4,274,High Risk
+138,9.0,147,Moderate Risk
+130,13.4,145,Healthy
+207,8.9,235,High Risk
+119,11.0,168,Moderate Risk
+72,15.4,268,Moderate Risk
+176,17.6,120,Moderate Risk
+182,15.2,211,High Risk
+163,17.9,177,Moderate Risk
+187,15.0,198,Moderate Risk
+150,10.9,302,High Risk
+178,14.7,200,Moderate Risk
+120,15.0,145,Healthy
+216,11.7,272,High Risk
+239,8.2,196,High Risk
+104,15.0,280,Moderate Risk
+115,8.2,191,Moderate Risk
+223,14.3,188,Moderate Risk
+138,9.6,125,Moderate Risk
+162,13.7,142,Moderate Risk
+133,13.0,277,Moderate Risk
+234,8.1,173,High Risk
+118,11.6,206,High Risk
+218,14.0,130,Moderate Risk
+143,16.5,278,High Risk
+74,16.9,253,Moderate Risk
+169,12.8,130,Moderate Risk
+139,15.3,196,Healthy
+159,11.2,131,High Risk
+73,11.4,313,High Risk
+195,9.9,172,High Risk
+108,13.6,218,Moderate Risk
+232,11.1,155,High Risk
+198,8.8,264,High Risk
+93,14.9,147,Healthy
+126,15.1,269,Moderate Risk
+169,11.6,221,High Risk
+139,8.8,126,Moderate Risk
+110,12.3,134,Healthy
+243,12.4,258,High Risk
+129,14.7,143,Healthy
+177,11.2,314,High Risk
+126,14.8,149,Healthy
+100,16.7,317,Moderate Risk
+153,10.4,185,High Risk
+221,17.8,180,Moderate Risk
+105,11.9,197,Moderate Risk
+227,10.7,160,High Risk
+221,12.2,201,High Risk
+177,8.9,170,High Risk
+175,9.3,291,High Risk
+227,12.1,214,High Risk
+155,15.6,132,Moderate Risk
+204,17.0,209,High Risk
+232,14.6,259,High Risk
+83,9.1,201,High Risk
+189,14.7,128,Moderate Risk
+207,14.4,167,Moderate Risk
+149,16.1,168,Moderate Risk
+213,16.3,172,Moderate Risk
+175,16.7,303,High Risk
+139,12.1,159,Healthy
+113,15.0,226,Moderate Risk
+142,10.7,143,High Risk
+114,18.0,319,Moderate Risk
+176,9.8,227,High Risk
+153,8.1,152,High Risk
+151,9.5,142,High Risk
+176,15.8,196,Moderate Risk
+90,12.5,173,Healthy
+247,12.5,172,Moderate Risk
+230,17.6,168,Moderate Risk
+76,17.2,197,Healthy
+139,11.1,199,Moderate Risk
+196,10.1,296,High Risk
+212,16.5,221,High Risk
+229,17.1,241,High Risk
+217,13.4,307,High Risk
+212,14.3,222,High Risk
+245,10.6,209,High Risk
+218,16.0,209,High Risk
+239,14.3,312,High Risk
+223,13.0,279,High Risk
+189,8.6,240,High Risk
+197,17.2,268,High Risk
+211,14.2,265,High Risk
+126,9.9,179,Moderate Risk
+234,14.1,241,High Risk
+127,14.8,260,Moderate Risk
+90,13.3,271,Moderate Risk
+151,15.2,149,Moderate Risk
+138,13.8,249,Moderate Risk
+200,17.5,202,High Risk
+156,8.5,230,High Risk
+234,9.1,227,High Risk
+118,9.7,230,High Risk
+216,14.9,144,Moderate Risk
+184,14.5,169,Moderate Risk
+158,16.9,133,Moderate Risk
+154,15.3,253,High Risk
+197,13.1,195,Moderate Risk
+209,17.9,203,High Risk
+238,10.7,206,High Risk
+230,16.3,277,High Risk
+247,12.3,149,Moderate Risk
+186,14.5,285,High Risk
+196,15.3,177,Moderate Risk
+140,14.3,213,Moderate Risk
+155,9.4,160,High Risk
+102,12.4,213,Moderate Risk
+150,13.6,176,Moderate Risk
+221,16.5,283,High Risk
+130,12.4,183,Healthy
+130,17.2,217,Moderate Risk
+167,12.4,135,Moderate Risk
+97,13.5,207,Moderate Risk
+112,16.0,197,Healthy
+238,13.8,209,High Risk
+236,17.6,191,Moderate Risk
+155,14.6,133,Moderate Risk
+246,13.2,150,Moderate Risk
+86,8.2,185,Moderate Risk
+167,12.1,231,High Risk
+167,11.0,187,High Risk
+134,15.5,312,Moderate Risk
+143,10.1,174,High Risk
+154,10.1,242,High Risk
+74,9.9,287,High Risk
+71,9.3,272,High Risk
+91,11.1,144,Moderate Risk
+181,16.9,250,High Risk
+126,15.7,188,Healthy
+135,15.4,221,Moderate Risk
+143,16.0,237,High Risk
+167,10.7,145,High Risk
+213,16.9,159,Moderate Risk
+181,9.4,157,High Risk
+248,11.4,285,High Risk
+194,13.9,315,High Risk
+236,9.0,126,High Risk
+155,15.3,277,High Risk
+145,11.9,239,High Risk
+157,15.8,266,High Risk
+237,12.9,154,Moderate Risk
+107,9.8,280,High Risk
+128,15.3,280,Moderate Risk
+207,10.5,197,High Risk
+168,12.9,157,Moderate Risk
+132,8.8,257,High Risk
+118,14.2,304,Moderate Risk
+101,14.7,147,Healthy
+204,11.8,219,High Risk
+90,17.5,157,Healthy
+89,16.7,263,Moderate Risk
+223,15.1,243,High Risk
+196,15.1,268,High Risk
+137,10.5,211,High Risk
+179,14.6,216,High Risk
+185,10.0,125,High Risk
+212,9.4,288,High Risk
+189,18.0,246,High Risk
+148,14.2,134,Moderate Risk
+185,12.3,227,High Risk
+161,10.9,250,High Risk
+83,14.0,162,Healthy
+224,8.5,166,High Risk
+194,8.9,218,High Risk
+237,8.3,133,High Risk
+127,13.0,313,Moderate Risk
+97,14.0,276,Moderate Risk
+95,8.6,251,High Risk
+182,15.2,273,High Risk
+135,10.3,234,High Risk
+222,14.9,259,High Risk
+200,17.8,121,Moderate Risk
+113,14.9,264,Moderate Risk
+166,16.8,154,Moderate Risk
+111,17.5,129,Healthy
+75,12.9,231,Moderate Risk
+236,15.0,290,High Risk
+249,16.5,140,Moderate Risk
+92,11.6,134,Moderate Risk
+158,10.6,282,High Risk
+192,17.5,231,High Risk
+247,15.3,245,High Risk
+240,10.2,204,High Risk
+216,12.5,204,High Risk
+120,16.0,307,Moderate Risk
+80,13.5,291,Moderate Risk
+81,14.5,124,Healthy
+143,15.5,236,High Risk
+77,14.2,265,Moderate Risk
+221,13.4,268,High Risk
+110,15.5,191,Healthy
+233,15.3,193,Moderate Risk
+154,14.3,170,Moderate Risk
+141,11.6,288,High Risk
+124,12.1,143,Healthy
+206,17.7,271,High Risk
+116,9.1,157,Moderate Risk
+212,10.7,163,High Risk
+245,12.9,304,High Risk
+173,16.4,306,High Risk
+111,9.6,281,High Risk
+129,10.8,194,Moderate Risk
+81,8.7,214,High Risk
+199,15.1,142,Moderate Risk
+76,10.4,243,High Risk
+149,11.9,205,High Risk
+200,12.4,162,Moderate Risk
+178,16.9,159,Moderate Risk
+72,12.1,166,Healthy
+96,9.5,288,High Risk
+183,13.2,294,High Risk
+176,17.6,139,Moderate Risk
+109,14.1,228,Moderate Risk
+230,17.8,312,High Risk
+198,16.4,187,Moderate Risk
+77,8.4,143,Moderate Risk
+170,14.6,155,Moderate Risk
+229,10.9,164,High Risk
+193,13.6,249,High Risk
+245,10.8,147,High Risk
+176,11.5,273,High Risk
+170,17.2,142,Moderate Risk
+73,10.1,283,High Risk
+179,16.7,210,High Risk
+88,8.3,253,High Risk
+101,8.9,282,High Risk
+206,16.5,222,High Risk
+81,14.3,157,Healthy
+208,15.5,282,High Risk
+115,10.1,213,High Risk
+188,13.4,172,Moderate Risk
+85,15.4,157,Healthy
+198,14.3,306,High Risk
+132,12.7,162,Healthy
+178,17.6,222,High Risk
+188,14.8,233,High Risk
+90,17.1,123,Healthy
+227,15.3,124,Moderate Risk
+82,15.4,187,Healthy
+231,8.8,242,High Risk
+73,11.6,292,High Risk
+225,16.6,199,Moderate Risk
+171,10.3,272,High Risk
+128,9.2,130,Moderate Risk
+197,11.3,276,High Risk
+96,10.2,281,High Risk
+138,17.3,261,Moderate Risk
+94,16.7,239,Moderate Risk
+200,13.0,271,High Risk
+166,8.6,306,High Risk
+94,15.1,286,Moderate Risk
+217,14.2,145,Moderate Risk
+231,17.7,290,High Risk
+223,13.6,155,Moderate Risk
+195,11.4,286,High Risk
+202,13.2,308,High Risk
+78,17.8,263,Moderate Risk
+185,15.0,241,High Risk
+247,14.7,178,Moderate Risk
+203,10.4,215,High Risk
+129,15.4,125,Healthy
+241,15.5,217,High Risk
+190,11.2,175,High Risk
+208,12.8,255,High Risk
+244,10.9,213,High Risk
+177,10.6,146,High Risk
+177,8.3,318,High Risk
+200,10.9,274,High Risk
+145,13.5,239,High Risk
+99,8.0,293,High Risk
+90,10.8,288,High Risk
+225,16.8,144,Moderate Risk
+230,13.9,205,High Risk
+232,14.1,265,High Risk
+249,12.0,131,Moderate Risk
+103,14.8,206,Moderate Risk
+110,9.9,298,High Risk
+120,16.2,228,Moderate Risk
+244,9.2,286,High Risk
+151,14.6,208,High Risk
+127,11.4,129,Moderate Risk
+144,15.5,193,Moderate Risk
+92,13.5,196,Healthy
+245,12.5,173,Moderate Risk
+197,9.7,276,High Risk
+219,14.4,221,High Risk
+86,17.7,288,Moderate Risk
+138,16.3,256,Moderate Risk
+177,8.6,310,High Risk
+208,11.8,284,High Risk
+163,17.3,261,High Risk
+84,13.0,220,Moderate Risk
+160,14.6,192,Moderate Risk
+232,17.1,191,Moderate Risk
+102,16.7,286,Moderate Risk
+194,13.0,287,High Risk
+85,12.4,173,Healthy
+231,11.4,122,High Risk
+135,15.2,302,Moderate Risk
+237,10.9,230,High Risk
+225,10.5,280,High Risk
+116,11.6,215,High Risk
+236,9.8,190,High Risk
+217,15.0,138,Moderate Risk
+193,14.2,153,Moderate Risk
+70,12.8,169,Healthy
+156,11.9,294,High Risk
+197,17.1,165,Moderate Risk
+136,8.3,303,High Risk
+73,15.7,304,Moderate Risk
+222,17.0,202,High Risk
+116,12.5,170,Healthy
+107,13.5,173,Healthy
+212,17.4,209,High Risk
+90,10.1,200,Moderate Risk
+126,13.2,237,Moderate Risk
+186,12.7,275,High Risk
+115,10.6,138,Moderate Risk
+211,16.2,146,Moderate Risk
+214,17.0,295,High Risk
+108,15.8,266,Moderate Risk
+206,10.0,298,High Risk
+168,8.9,126,High Risk
+146,14.1,276,High Risk
+184,8.6,290,High Risk
+203,14.7,188,Moderate Risk
+220,13.3,213,High Risk
+160,14.6,232,High Risk
+167,13.9,226,High Risk
+189,12.2,239,High Risk
+115,10.0,305,High Risk
+107,11.1,255,High Risk
+211,13.2,289,High Risk
+169,14.5,161,Moderate Risk
+141,15.8,132,Moderate Risk
+104,15.7,273,Moderate Risk
+216,17.7,137,Moderate Risk
+99,10.9,161,Moderate Risk
+147,8.7,170,High Risk
+153,11.5,232,High Risk
+182,15.4,263,High Risk
+94,12.4,220,Moderate Risk
+237,16.2,122,Moderate Risk
+157,13.5,198,Moderate Risk
+83,17.3,217,Moderate Risk
+223,17.5,292,High Risk
+171,8.7,269,High Risk
+219,12.6,142,Moderate Risk
+245,14.1,178,Moderate Risk
+152,10.6,309,High Risk
+179,12.1,232,High Risk
+248,14.8,187,Moderate Risk
+200,10.3,173,High Risk
+239,14.0,176,Moderate Risk
+88,15.0,270,Moderate Risk
+97,8.9,230,High Risk
+242,13.0,179,Moderate Risk
+140,10.6,192,Moderate Risk
+132,15.2,174,Healthy
+142,9.9,236,High Risk
+193,16.9,182,Moderate Risk
+188,12.3,303,High Risk
+190,10.0,174,High Risk
+88,12.4,144,Healthy
+244,12.1,145,Moderate Risk
+211,12.3,296,High Risk
+189,13.9,182,Moderate Risk
+235,13.2,292,High Risk
+130,9.5,192,Moderate Risk
+233,8.7,198,High Risk
+237,15.3,286,High Risk
+99,13.6,184,Healthy
+78,11.6,188,Moderate Risk
+133,16.1,303,Moderate Risk
+230,11.9,128,High Risk
+189,16.0,317,High Risk
+121,11.1,275,High Risk
+158,8.7,292,High Risk
+211,17.3,145,Moderate Risk
+122,11.9,147,Moderate Risk
+147,15.9,159,Moderate Risk
+110,10.8,262,High Risk
+137,14.5,253,Moderate Risk
+77,16.7,146,Healthy
+71,8.4,157,Moderate Risk
+174,16.3,315,High Risk
+194,13.7,204,High Risk
+179,14.1,183,Moderate Risk
+155,13.2,149,Moderate Risk
+238,16.7,218,High Risk
+189,8.4,250,High Risk
+196,10.6,309,High Risk
+85,16.8,131,Healthy
+131,15.5,210,Moderate Risk
+182,8.2,149,High Risk
+245,13.2,157,Moderate Risk
+227,13.3,204,High Risk
+81,12.0,179,Healthy
+104,11.0,157,Moderate Risk
+80,14.8,223,Moderate Risk
+133,10.1,262,High Risk
+119,16.0,265,Moderate Risk
+218,16.0,299,High Risk
+138,12.2,148,Healthy
+117,10.8,231,High Risk
+89,10.8,307,High Risk
+170,12.8,140,Moderate Risk
+241,15.2,264,High Risk
+230,11.6,265,High Risk
+206,14.1,304,High Risk
+137,11.8,238,High Risk
+104,11.0,284,High Risk
+134,8.2,179,Moderate Risk
+77,8.0,285,High Risk
+114,10.3,259,High Risk
+156,12.1,232,High Risk
+244,16.5,248,High Risk
+237,16.0,177,Moderate Risk
+145,10.7,122,High Risk
+145,10.4,310,High Risk
+243,10.3,268,High Risk
+116,11.4,142,Moderate Risk
+84,13.0,256,Moderate Risk
+174,12.4,202,High Risk
+216,10.2,174,High Risk
+95,9.3,229,High Risk
+121,8.1,235,High Risk
+162,9.5,266,High Risk
+219,15.1,181,Moderate Risk
+90,10.4,206,High Risk
+120,12.7,286,Moderate Risk
+107,13.9,219,Moderate Risk
+89,16.9,146,Healthy
+226,16.9,293,High Risk
+248,15.5,153,Moderate Risk
+201,8.4,152,High Risk
+124,13.8,211,Moderate Risk
+161,15.9,215,High Risk
+97,8.2,297,High Risk
+73,13.5,267,Moderate Risk
+219,16.6,287,High Risk
+145,12.7,214,High Risk
+242,8.0,305,High Risk
+136,8.1,278,High Risk
+155,12.2,157,Moderate Risk
+231,9.6,292,High Risk
+160,14.6,160,Moderate Risk
+174,15.1,256,High Risk
+70,9.8,256,High Risk
+141,16.9,310,High Risk
+156,12.4,198,Moderate Risk
+235,9.4,247,High Risk
+75,15.6,141,Healthy
+222,15.9,135,Moderate Risk
+214,14.4,151,Moderate Risk
+130,16.5,313,Moderate Risk
+81,15.4,261,Moderate Risk
+75,16.8,157,Healthy
+96,12.3,217,Moderate Risk
+205,15.5,255,High Risk
+193,18.0,140,Moderate Risk
+175,15.2,175,Moderate Risk
+162,9.1,165,High Risk
+178,13.2,162,Moderate Risk
+168,13.9,239,High Risk
+237,9.7,165,High Risk
+211,17.6,167,Moderate Risk
+104,9.8,317,High Risk
+245,9.8,203,High Risk
+153,17.2,150,Moderate Risk
+125,12.7,280,Moderate Risk
+246,8.6,291,High Risk
+210,14.0,190,Moderate Risk
+118,14.0,127,Healthy
+115,8.6,249,High Risk
+182,17.7,264,High Risk
+205,13.4,171,Moderate Risk
+112,13.6,164,Healthy
+217,13.2,156,Moderate Risk
+193,14.1,289,High Risk
+166,10.6,163,High Risk
+159,10.9,236,High Risk
+108,13.1,157,Healthy
+154,16.1,218,High Risk
+246,8.5,243,High Risk
+131,14.0,125,Healthy
+175,16.1,187,Moderate Risk
+176,9.6,298,High Risk
+123,8.2,220,High Risk
+195,11.1,282,High Risk
+78,13.9,305,Moderate Risk
+157,9.4,304,High Risk
+106,12.3,253,Moderate Risk
+118,13.5,132,Healthy
+110,14.0,306,Moderate Risk
+86,10.7,149,Moderate Risk
+157,12.0,219,High Risk
+90,15.8,121,Healthy
+120,17.4,177,Healthy
+128,16.6,155,Healthy
+236,13.6,191,Moderate Risk
+110,12.1,292,Moderate Risk
+108,11.3,256,High Risk
+210,9.2,245,High Risk
+80,9.1,312,High Risk
+216,14.9,196,Moderate Risk
+208,10.6,169,High Risk
+146,10.5,151,High Risk
+196,18.0,217,High Risk
+115,9.9,162,Moderate Risk
+114,9.5,244,High Risk
+70,9.0,214,High Risk
+237,13.8,197,Moderate Risk
+177,14.3,173,Moderate Risk
+88,11.7,166,Moderate Risk
+145,13.4,133,Moderate Risk
+141,15.9,295,High Risk
+178,16.2,174,Moderate Risk
+81,17.6,276,Moderate Risk
+230,16.2,294,High Risk
+114,13.6,182,Healthy
+159,9.8,138,High Risk
+172,9.0,210,High Risk
+77,8.5,256,High Risk
+222,14.7,220,High Risk
+160,16.1,156,Moderate Risk
+243,13.1,226,High Risk
+156,8.5,211,High Risk
+227,13.4,171,Moderate Risk
+244,17.4,304,High Risk
+246,14.0,147,Moderate Risk
+244,16.1,155,Moderate Risk
+153,16.0,235,High Risk
+151,17.3,183,Moderate Risk
+215,15.7,137,Moderate Risk
+137,15.5,208,Moderate Risk
+230,10.3,282,High Risk
+196,8.6,315,High Risk
+233,13.2,197,Moderate Risk
+151,9.2,286,High Risk
+216,17.6,209,High Risk
+225,10.9,127,High Risk
+237,16.5,134,Moderate Risk
+153,11.9,126,High Risk
+182,11.2,136,High Risk
+145,17.4,205,High Risk
+191,11.6,237,High Risk
+212,11.9,183,High Risk
+110,9.1,131,Moderate Risk
+236,14.7,175,Moderate Risk
+71,10.9,293,High Risk
+98,13.9,294,Moderate Risk
+174,13.9,220,High Risk
+120,15.2,135,Healthy
+144,15.5,316,High Risk
+79,13.1,121,Healthy
+211,11.3,247,High Risk
+120,16.4,211,Moderate Risk
+187,11.1,224,High Risk
+190,13.1,301,High Risk
+108,12.0,274,Moderate Risk
+97,16.6,150,Healthy
+72,12.3,288,Moderate Risk
+153,11.9,283,High Risk
+224,14.9,166,Moderate Risk
+186,14.0,162,Moderate Risk
+71,9.1,184,Moderate Risk
+162,13.1,169,Moderate Risk
+235,15.4,120,Moderate Risk
+200,17.9,319,High Risk
+213,14.3,304,High Risk
+163,11.7,263,High Risk
+109,10.3,241,High Risk
+71,16.7,147,Healthy
+150,16.1,205,High Risk
+238,10.3,201,High Risk
+81,10.0,141,Moderate Risk
+232,15.2,160,Moderate Risk
+134,11.1,195,Moderate Risk
+124,11.1,266,High Risk
+114,9.5,208,High Risk
+170,10.6,297,High Risk
+131,12.3,178,Healthy
+118,15.3,188,Healthy
+196,11.4,281,High Risk
+222,11.3,286,High Risk
+92,10.8,242,High Risk
+221,12.8,193,Moderate Risk
+107,9.8,126,Moderate Risk
+97,12.9,220,Moderate Risk
+90,15.0,230,Moderate Risk
+176,8.3,299,High Risk
+215,8.1,307,High Risk
+233,8.8,171,High Risk
+168,13.4,143,Moderate Risk
+242,16.5,145,Moderate Risk
+188,8.0,244,High Risk
+142,17.4,209,High Risk
+191,9.1,241,High Risk
+99,16.4,129,Healthy
+177,12.8,136,Moderate Risk
+167,14.6,121,Moderate Risk
+101,13.1,231,Moderate Risk
+225,12.8,146,Moderate Risk
+241,16.3,190,Moderate Risk
+148,15.6,295,High Risk
+110,12.8,237,Moderate Risk
+132,9.1,128,Moderate Risk
+92,9.2,205,High Risk
+173,16.0,142,Moderate Risk
+144,13.3,318,High Risk
+117,12.8,192,Healthy
+229,14.8,146,Moderate Risk
+126,16.6,212,Moderate Risk
+187,14.3,200,Moderate Risk
+169,15.6,203,High Risk
+193,15.7,318,High Risk
+230,11.6,162,High Risk
+221,10.7,126,High Risk
+236,16.0,211,High Risk
+103,11.8,202,High Risk
+225,17.0,310,High Risk
+234,8.7,203,High Risk
+76,8.6,163,Moderate Risk
+234,17.3,286,High Risk
+125,14.5,159,Healthy
+134,11.8,254,High Risk
+116,15.6,317,Moderate Risk
+217,14.7,144,Moderate Risk
+88,13.3,178,Healthy
+226,9.0,260,High Risk
+215,16.1,222,High Risk
+232,16.7,205,High Risk
+240,9.7,231,High Risk
+195,16.5,205,High Risk
+208,16.8,217,High Risk
+118,13.5,181,Healthy
+182,14.6,127,Moderate Risk
+107,11.8,232,High Risk
+133,10.8,292,High Risk
+138,15.2,265,Moderate Risk
+205,16.6,179,Moderate Risk
+231,14.5,179,Moderate Risk
+245,13.1,225,High Risk
+185,9.6,121,High Risk
+134,8.5,313,High Risk
+100,12.5,210,Moderate Risk
+201,8.5,133,High Risk
+182,13.7,167,Moderate Risk
+178,11.8,222,High Risk
+247,15.6,175,Moderate Risk
+138,11.1,131,Moderate Risk
+227,13.9,174,Moderate Risk
+189,13.4,275,High Risk
+157,8.0,229,High Risk
+136,8.7,123,Moderate Risk
+144,10.9,155,High Risk
+114,16.8,297,Moderate Risk
+73,9.5,250,High Risk
+223,15.1,120,Moderate Risk
+224,17.7,136,Moderate Risk
+243,15.9,318,High Risk
+176,10.4,181,High Risk
+120,17.1,167,Healthy
+119,8.9,181,Moderate Risk
+75,12.7,188,Healthy
+128,16.9,266,Moderate Risk
+194,14.4,222,High Risk
+212,12.1,229,High Risk
+99,10.9,281,High Risk
+239,11.8,296,High Risk
+191,13.1,294,High Risk
+194,11.2,210,High Risk
+106,17.7,233,Moderate Risk
+239,17.3,297,High Risk
+193,16.7,208,High Risk
+170,12.2,273,High Risk
+104,14.9,175,Healthy
+156,17.0,197,Moderate Risk
+203,16.5,133,Moderate Risk
+87,12.1,144,Healthy
+182,9.1,251,High Risk
+98,8.8,151,Moderate Risk
+146,13.8,201,High Risk
+128,14.4,197,Healthy
+244,16.5,312,High Risk
+195,10.9,225,High Risk
+214,9.7,308,High Risk
+178,11.8,139,High Risk
+91,11.5,193,Moderate Risk
+137,9.3,129,Moderate Risk
+138,14.7,242,Moderate Risk
+234,13.1,153,Moderate Risk
+118,15.2,308,Moderate Risk
+210,11.5,274,High Risk
+231,11.3,159,High Risk
+178,12.7,312,High Risk
+155,16.8,246,High Risk
+122,8.4,152,Moderate Risk
+192,16.0,315,High Risk
+156,11.7,190,High Risk
+248,16.5,256,High Risk
+200,16.0,263,High Risk
+111,11.5,252,High Risk
+167,14.9,217,High Risk
+229,9.6,243,High Risk
+178,17.0,270,High Risk
+120,12.0,162,Healthy
+154,12.6,233,High Risk
+243,15.1,208,High Risk
+196,16.2,304,High Risk
+90,10.4,298,High Risk
+113,14.6,132,Healthy
+208,11.9,247,High Risk
+172,11.7,271,High Risk
+137,14.9,258,Moderate Risk
+198,11.9,171,High Risk
+161,11.5,136,High Risk
+93,16.4,284,Moderate Risk
+194,9.0,132,High Risk
+210,14.8,309,High Risk
+180,10.5,203,High Risk
+167,8.2,216,High Risk
+208,9.7,225,High Risk
+248,14.1,215,High Risk
+86,15.1,127,Healthy
+168,8.2,175,High Risk
+151,8.4,223,High Risk
+173,17.0,202,High Risk
+221,8.7,317,High Risk
+88,16.9,163,Healthy
+234,10.3,307,High Risk
+154,15.4,222,High Risk
+77,11.1,231,High Risk
+97,16.6,288,Moderate Risk
+74,15.0,268,Moderate Risk
+214,12.0,161,Moderate Risk
+170,8.8,276,High Risk
+233,15.3,312,High Risk
+187,14.2,264,High Risk
+216,8.0,149,High Risk
+133,8.1,145,Moderate Risk
+160,16.1,300,High Risk
+186,10.6,244,High Risk
+167,14.4,138,Moderate Risk
+80,12.5,172,Healthy
+123,16.6,204,Moderate Risk
+242,17.2,136,Moderate Risk
+116,18.0,293,Moderate Risk
+209,9.5,223,High Risk
+218,16.6,300,High Risk
+208,10.7,224,High Risk
+74,13.9,223,Moderate Risk
+89,13.1,311,Moderate Risk
+238,8.2,292,High Risk
+115,17.3,296,Moderate Risk
+81,8.8,266,High Risk
+139,14.9,243,Moderate Risk
+86,15.9,318,Moderate Risk
+184,16.0,200,Moderate Risk
+216,9.4,312,High Risk
+223,12.5,156,Moderate Risk
+117,16.3,240,Moderate Risk
+177,11.0,189,High Risk
+121,12.7,273,Moderate Risk
+165,10.7,249,High Risk
+139,12.6,178,Healthy
+171,16.9,237,High Risk
+144,12.6,252,High Risk
+230,13.6,156,Moderate Risk
+220,12.0,150,Moderate Risk
+212,12.6,218,High Risk
+224,8.2,213,High Risk
+248,10.8,295,High Risk
+151,12.4,125,Moderate Risk
+161,14.3,134,Moderate Risk
+248,12.5,262,High Risk
+244,11.4,308,High Risk
+73,11.9,135,Moderate Risk
+204,10.4,139,High Risk
+178,17.2,196,Moderate Risk
+232,13.2,163,Moderate Risk
+117,8.1,289,High Risk
+142,8.2,165,High Risk
+141,17.7,214,High Risk
+185,10.2,281,High Risk
+242,16.1,183,Moderate Risk
+150,8.6,276,High Risk
+150,17.2,250,High Risk
+182,16.7,128,Moderate Risk
+165,13.7,272,High Risk
+141,8.1,161,High Risk
+216,10.6,293,High Risk
+132,12.1,192,Healthy
+107,12.6,203,Moderate Risk
+136,11.0,178,Moderate Risk
+138,8.3,140,Moderate Risk
+82,13.9,269,Moderate Risk
+244,13.2,276,High Risk
+100,10.8,182,Moderate Risk
+183,8.4,192,High Risk
+91,17.9,180,Healthy
+162,12.8,183,Moderate Risk
+240,15.6,188,Moderate Risk
+136,12.5,287,Moderate Risk
+123,8.4,248,High Risk
+207,11.1,225,High Risk
+111,11.2,184,Moderate Risk
+133,16.4,241,Moderate Risk
+195,14.5,181,Moderate Risk
+90,10.8,301,High Risk
+238,17.7,222,High Risk
+221,11.2,179,High Risk
+104,18.0,165,Healthy
+99,18.0,124,Healthy
+126,9.9,232,High Risk
+116,11.1,269,High Risk
+232,12.9,300,High Risk
+88,14.6,189,Healthy
+183,13.3,279,High Risk
+77,17.7,130,Healthy
+95,15.2,257,Moderate Risk
+182,10.1,286,High Risk
+140,9.1,217,High Risk
+99,14.9,150,Healthy
+204,9.6,131,High Risk
+136,15.9,227,Moderate Risk
+134,11.1,199,Moderate Risk
+105,11.3,285,High Risk
+94,8.1,186,Moderate Risk
+106,15.0,313,Moderate Risk
+70,9.1,171,Moderate Risk
+212,15.7,252,High Risk
+106,12.9,258,Moderate Risk
+210,15.8,144,Moderate Risk
+205,13.8,154,Moderate Risk
+202,8.8,282,High Risk
+197,15.7,141,Moderate Risk
+196,8.7,284,High Risk
+70,12.8,302,Moderate Risk
+233,9.7,215,High Risk
+104,15.5,236,Moderate Risk
+173,17.1,319,High Risk
+92,13.5,311,Moderate Risk
+78,13.3,139,Healthy
+103,15.6,225,Moderate Risk
+243,8.1,123,High Risk
+197,17.2,137,Moderate Risk
+73,10.0,170,Moderate Risk
+227,17.8,315,High Risk
+171,15.4,139,Moderate Risk
+144,15.7,241,High Risk
+168,14.6,256,High Risk
+141,12.7,199,Moderate Risk
+72,13.7,273,Moderate Risk
+211,8.5,221,High Risk
+242,14.2,144,Moderate Risk
+103,14.3,315,Moderate Risk
+114,16.9,288,Moderate Risk
+130,13.1,178,Healthy
+152,8.8,164,High Risk
+192,11.1,160,High Risk
+171,14.6,157,Moderate Risk
+85,10.4,236,High Risk
+135,10.8,138,Moderate Risk
+237,16.2,133,Moderate Risk
+214,13.8,246,High Risk
+188,13.1,268,High Risk
+231,11.2,262,High Risk
+193,15.3,122,Moderate Risk
+213,10.9,156,High Risk
+171,15.4,236,High Risk
+135,8.7,293,High Risk
+82,16.6,135,Healthy
+180,13.0,261,High Risk
+228,12.4,128,Moderate Risk
+103,14.1,126,Healthy
+108,14.2,261,Moderate Risk
+205,9.3,253,High Risk
+189,15.6,134,Moderate Risk
+195,10.8,299,High Risk
+124,17.0,191,Healthy
+96,16.2,281,Moderate Risk
+187,11.5,223,High Risk
+122,16.1,248,Moderate Risk
+108,11.6,215,High Risk
+134,9.0,241,High Risk
+214,17.6,234,High Risk
+227,14.5,316,High Risk
+82,12.6,267,Moderate Risk
+90,12.0,199,Healthy
+216,11.2,126,High Risk
+122,17.8,254,Moderate Risk
+88,9.3,169,Moderate Risk
+126,11.1,249,High Risk
+94,12.9,166,Healthy
+100,12.8,133,Healthy
+150,12.7,150,Moderate Risk
+92,9.8,169,Moderate Risk
+101,9.4,308,High Risk
+143,10.5,160,High Risk
+79,17.1,133,Healthy
+123,9.1,252,High Risk
+121,15.6,124,Healthy
+217,15.6,311,High Risk
+229,16.1,276,High Risk
+183,16.9,124,Moderate Risk
+83,10.6,232,High Risk
+247,10.2,237,High Risk
+225,12.7,215,High Risk
+179,10.7,155,High Risk
+122,15.3,198,Healthy
+221,14.4,138,Moderate Risk
+148,16.7,311,High Risk
+91,8.8,141,Moderate Risk
+99,17.2,281,Moderate Risk
+73,10.9,175,Moderate Risk
+128,12.9,136,Healthy
+77,12.4,303,Moderate Risk
+81,15.6,136,Healthy
+188,12.2,265,High Risk
+228,17.4,292,High Risk
+103,17.0,197,Healthy
+151,16.7,175,Moderate Risk
+167,8.7,199,High Risk
+196,16.5,169,Moderate Risk
+144,15.8,177,Moderate Risk
+174,9.0,137,High Risk
+118,9.1,254,High Risk
+148,9.0,195,High Risk
+162,8.1,129,High Risk
+223,13.5,188,Moderate Risk
+87,17.7,204,Moderate Risk
+165,12.4,250,High Risk
+107,13.4,202,Moderate Risk
+156,17.7,228,High Risk
+157,10.6,163,High Risk
+119,16.6,317,Moderate Risk
+77,13.5,261,Moderate Risk
+238,13.7,251,High Risk
+203,11.4,137,High Risk
+138,13.6,212,Moderate Risk
+241,8.7,299,High Risk
+190,15.6,157,Moderate Risk
+133,10.8,267,High Risk
+226,16.9,291,High Risk
+225,11.7,170,High Risk
+208,9.4,138,High Risk
+190,15.0,239,High Risk
+134,9.6,187,Moderate Risk
+176,15.5,185,Moderate Risk
+216,17.7,260,High Risk
+206,15.8,309,High Risk
+224,8.2,308,High Risk
+231,14.0,277,High Risk
+241,15.0,217,High Risk
+169,16.3,277,High Risk
+151,8.6,298,High Risk
+212,12.8,207,High Risk
+120,13.4,295,Moderate Risk
+210,9.7,152,High Risk
+152,11.2,224,High Risk
+246,12.4,193,Moderate Risk
+181,16.3,201,High Risk
+125,17.3,138,Healthy
+248,14.3,190,Moderate Risk
+234,11.9,176,High Risk
+214,10.5,266,High Risk
+226,17.8,198,Moderate Risk
+230,17.8,288,High Risk
+129,17.2,161,Healthy
+189,15.9,299,High Risk
+207,11.3,235,High Risk
+244,16.2,123,Moderate Risk
+92,12.1,123,Healthy
+218,11.3,124,High Risk
+82,15.4,160,Healthy
+170,8.8,227,High Risk
+230,8.5,206,High Risk
+93,12.5,223,Moderate Risk
+177,12.5,236,High Risk
+80,17.0,220,Moderate Risk
+86,9.3,308,High Risk
+244,9.2,194,High Risk
+94,9.5,302,High Risk
+163,8.3,194,High Risk
+90,8.7,132,Moderate Risk
+153,14.6,261,High Risk
+209,12.3,307,High Risk
+106,15.6,319,Moderate Risk
+111,17.9,144,Healthy
+214,14.6,234,High Risk
+170,8.5,291,High Risk
+117,9.0,201,High Risk
+172,16.8,129,Moderate Risk
+97,13.3,318,Moderate Risk
+110,16.2,169,Healthy
+168,16.6,291,High Risk
+116,17.3,261,Moderate Risk
+215,17.5,134,Moderate Risk
+174,13.5,135,Moderate Risk
+193,11.4,121,High Risk
+82,17.6,277,Moderate Risk
+210,13.5,149,Moderate Risk
+169,8.6,201,High Risk
+100,14.4,150,Healthy
+199,13.9,196,Moderate Risk
+85,17.0,267,Moderate Risk
+206,14.5,296,High Risk
+142,11.5,233,High Risk
+235,17.7,154,Moderate Risk
+123,16.0,142,Healthy
+169,14.3,225,High Risk
+178,10.9,216,High Risk
+156,11.7,234,High Risk
+242,14.7,219,High Risk
+231,8.7,308,High Risk
+206,10.6,174,High Risk
+77,15.1,314,Moderate Risk
+76,12.8,127,Healthy
+105,12.0,287,Moderate Risk
+87,9.5,178,Moderate Risk
+72,12.4,247,Moderate Risk
+97,15.7,151,Healthy
+139,10.6,212,High Risk
+241,8.1,126,High Risk
+218,14.7,121,Moderate Risk
+97,17.7,204,Moderate Risk
+123,14.1,253,Moderate Risk
+134,9.2,225,High Risk
+169,11.2,155,High Risk
+90,16.7,279,Moderate Risk
+82,10.3,164,Moderate Risk
+126,14.1,161,Healthy
+118,12.0,172,Healthy
+187,10.1,229,High Risk
+123,16.1,128,Healthy
+207,15.4,206,High Risk
+122,14.6,233,Moderate Risk
+113,10.4,194,Moderate Risk
+116,9.0,296,High Risk
+122,13.8,249,Moderate Risk
+143,13.5,314,High Risk
+115,9.9,130,Moderate Risk
+82,8.6,169,Moderate Risk
+234,8.8,282,High Risk
+171,17.9,241,High Risk
+93,15.8,262,Moderate Risk
+71,17.2,194,Healthy
+150,10.0,150,High Risk
+169,17.6,211,High Risk
+211,9.4,309,High Risk
+207,13.1,275,High Risk
+232,16.3,272,High Risk
+222,11.5,211,High Risk
+200,12.2,272,High Risk
+180,9.3,194,High Risk
+171,9.2,211,High Risk
+86,14.2,248,Moderate Risk
+81,14.8,306,Moderate Risk
+185,15.8,316,High Risk
+93,13.6,161,Healthy
+98,14.5,229,Moderate Risk
+240,8.1,281,High Risk
+222,9.6,313,High Risk
+191,17.8,137,Moderate Risk
+159,8.8,196,High Risk
+134,14.8,252,Moderate Risk
+153,9.8,139,High Risk
+188,15.2,313,High Risk
+225,15.1,246,High Risk
+85,10.3,194,Moderate Risk
+244,10.7,181,High Risk
+173,14.5,151,Moderate Risk
+161,11.9,305,High Risk
+96,9.9,297,High Risk
+239,15.3,285,High Risk
+244,9.5,302,High Risk
+231,16.6,147,Moderate Risk
+234,13.1,193,Moderate Risk
+203,9.1,200,High Risk
+204,14.9,141,Moderate Risk
+222,13.2,290,High Risk
+102,11.0,283,High Risk
+124,12.2,215,Moderate Risk
+76,11.0,241,High Risk
+126,10.6,242,High Risk
+195,9.6,171,High Risk
+81,11.6,283,High Risk
+85,10.5,275,High Risk
+112,14.8,197,Healthy
+186,14.8,305,High Risk
+204,13.0,283,High Risk
+180,15.8,189,Moderate Risk
+120,16.4,256,Moderate Risk
+229,13.8,140,Moderate Risk
+144,14.2,183,Moderate Risk
+77,10.8,195,Moderate Risk
+114,16.9,180,Healthy
+128,8.2,214,High Risk
+201,11.5,159,High Risk
+173,15.2,303,High Risk
+226,8.8,123,High Risk
+226,9.8,150,High Risk
+167,13.9,274,High Risk
+225,13.6,305,High Risk
+148,15.4,272,High Risk
+193,16.1,188,Moderate Risk
+241,9.3,189,High Risk
+73,8.2,124,Moderate Risk
+159,14.9,234,High Risk
+173,11.0,210,High Risk
+206,14.3,127,Moderate Risk
+188,9.5,128,High Risk
+202,12.7,134,Moderate Risk
+125,13.0,224,Moderate Risk
+165,13.9,126,Moderate Risk
+247,13.1,191,Moderate Risk
+144,13.0,234,High Risk
+212,11.3,134,High Risk
+101,8.7,284,High Risk
+97,8.9,202,High Risk
+91,12.3,158,Healthy
+86,11.6,253,High Risk
+128,13.2,176,Healthy
+159,11.0,211,High Risk
+175,14.9,200,Moderate Risk
+95,16.6,266,Moderate Risk
+94,11.0,246,High Risk
+207,9.9,310,High Risk
+114,9.2,278,High Risk
+152,14.2,194,Moderate Risk
+80,12.4,198,Healthy
+173,9.9,129,High Risk
+137,14.5,226,Moderate Risk
+164,9.5,206,High Risk
+225,13.5,186,Moderate Risk
+134,13.3,181,Healthy
+118,15.3,250,Moderate Risk
+244,8.6,265,High Risk
+121,16.9,272,Moderate Risk
+171,15.0,226,High Risk
+126,10.2,267,High Risk
+116,9.8,305,High Risk
+228,12.3,212,High Risk
+243,16.2,205,High Risk
+95,16.4,297,Moderate Risk
+183,13.2,240,High Risk
+74,16.6,198,Healthy
+153,8.1,129,High Risk
+121,8.4,268,High Risk
+174,17.1,148,Moderate Risk
+123,15.8,215,Moderate Risk
+230,12.5,129,Moderate Risk
+247,15.5,132,Moderate Risk
+235,17.6,166,Moderate Risk
+224,15.7,270,High Risk
+84,16.4,169,Healthy
+130,15.6,251,Moderate Risk
+191,9.7,235,High Risk
+90,16.3,232,Moderate Risk
+115,10.0,314,High Risk
+203,16.9,204,High Risk
+107,12.6,172,Healthy
+131,14.8,249,Moderate Risk
+155,13.0,187,Moderate Risk
+147,8.9,312,High Risk
+115,10.9,198,Moderate Risk
+210,17.8,176,Moderate Risk
+72,17.6,216,Moderate Risk
+75,11.2,317,High Risk
+162,18.0,254,High Risk
+77,16.5,266,Moderate Risk
+241,14.1,291,High Risk
+177,8.4,182,High Risk
+230,17.0,184,Moderate Risk
+144,13.6,158,Moderate Risk
+146,16.7,228,High Risk
+119,16.3,145,Healthy
+80,16.3,291,Moderate Risk
+164,15.0,131,Moderate Risk
+225,10.9,269,High Risk
+139,11.4,196,Moderate Risk
+238,11.1,261,High Risk
+85,8.2,205,High Risk
+137,13.8,149,Healthy
+168,15.0,291,High Risk
+117,16.5,285,Moderate Risk
+133,9.4,306,High Risk
+159,13.4,289,High Risk
+145,8.1,171,High Risk
+208,9.0,182,High Risk
+170,8.5,308,High Risk
+158,15.3,239,High Risk
+87,8.8,224,High Risk
+88,15.2,281,Moderate Risk
+124,10.5,158,Moderate Risk
+171,16.8,160,Moderate Risk
+187,16.1,240,High Risk
+223,17.6,227,High Risk
+203,16.8,284,High Risk
+73,17.3,184,Healthy
+177,16.6,237,High Risk
+184,14.9,198,Moderate Risk
+98,9.7,279,High Risk
+128,10.7,127,Moderate Risk
+194,10.1,216,High Risk
+167,14.0,137,Moderate Risk
+86,13.0,292,Moderate Risk
+176,16.7,215,High Risk
+112,17.5,152,Healthy
+149,12.0,124,Moderate Risk
+231,13.1,246,High Risk
+77,17.7,193,Healthy
+210,10.8,245,High Risk
+175,15.9,283,High Risk
+77,10.3,270,High Risk
+165,14.8,287,High Risk
+163,10.5,124,High Risk
+134,16.8,153,Healthy
+240,13.6,143,Moderate Risk
+108,9.9,264,High Risk
+150,10.2,214,High Risk
+153,12.9,190,Moderate Risk
+157,17.6,211,High Risk
+155,15.7,244,High Risk
+162,12.9,141,Moderate Risk
+155,11.4,134,High Risk
+113,13.5,220,Moderate Risk
+206,15.5,134,Moderate Risk
+234,15.8,272,High Risk
+143,11.2,172,High Risk
+105,15.2,268,Moderate Risk
+170,14.6,221,High Risk
+225,17.6,313,High Risk
+239,17.3,232,High Risk
+240,15.9,151,Moderate Risk
+239,15.2,140,Moderate Risk
+173,10.7,315,High Risk
+135,16.5,291,Moderate Risk
+124,12.3,202,Moderate Risk
+245,10.7,313,High Risk
+160,11.8,133,High Risk
+91,16.4,134,Healthy
+170,9.5,267,High Risk
+224,12.6,153,Moderate Risk
+190,12.9,283,High Risk
+162,8.4,202,High Risk
+177,10.0,128,High Risk
+210,16.3,318,High Risk
+242,16.3,277,High Risk
+79,10.9,196,Moderate Risk
+78,16.7,310,Moderate Risk
+224,15.7,282,High Risk
+103,12.2,260,Moderate Risk
+198,15.5,293,High Risk
+229,17.6,303,High Risk
+158,12.6,128,Moderate Risk
+162,10.4,155,High Risk
+140,17.4,236,Moderate Risk
+136,14.0,122,Healthy
+217,9.1,138,High Risk
+186,13.7,275,High Risk
+163,13.0,142,Moderate Risk
+232,16.6,223,High Risk
+168,13.3,254,High Risk
+182,10.6,224,High Risk
+172,14.8,261,High Risk
+160,13.4,165,Moderate Risk
+159,10.3,262,High Risk
+86,13.7,314,Moderate Risk
+87,16.2,134,Healthy
+242,8.3,170,High Risk
+185,14.3,229,High Risk
+162,11.5,127,High Risk
+160,10.9,188,High Risk
+151,11.9,309,High Risk
+137,11.4,298,High Risk
+183,16.3,182,Moderate Risk
+70,10.7,187,Moderate Risk
+127,15.3,263,Moderate Risk
+223,8.9,271,High Risk
+178,17.5,125,Moderate Risk
+217,14.2,238,High Risk
+185,15.1,176,Moderate Risk
+156,11.0,150,High Risk
+79,12.1,125,Healthy
+128,10.2,276,High Risk
+110,17.3,186,Healthy
+174,12.9,250,High Risk
+202,14.3,275,High Risk
+191,15.3,193,Moderate Risk
+214,11.7,233,High Risk
+91,15.2,216,Moderate Risk
+167,14.8,295,High Risk
+238,15.1,199,Moderate Risk
+137,12.9,242,Moderate Risk
+208,11.8,257,High Risk
+125,10.2,152,Moderate Risk
+248,16.2,314,High Risk
+218,14.1,316,High Risk
+168,12.4,259,High Risk
+145,17.4,304,High Risk
+95,8.5,163,Moderate Risk
+184,16.5,132,Moderate Risk
+216,18.0,271,High Risk
+178,16.9,291,High Risk
+116,16.1,176,Healthy
+140,11.7,215,High Risk
+223,10.3,263,High Risk
+109,15.3,228,Moderate Risk
+202,11.0,239,High Risk
+218,9.8,219,High Risk
+201,15.9,268,High Risk
+92,11.1,230,High Risk
+175,17.1,170,Moderate Risk
+153,16.4,140,Moderate Risk
+212,16.5,179,Moderate Risk
+185,15.7,298,High Risk
+178,16.8,140,Moderate Risk
+205,16.1,226,High Risk
+110,14.0,245,Moderate Risk
+181,11.0,253,High Risk
+216,16.9,192,Moderate Risk
+181,16.4,312,High Risk
+172,12.7,195,Moderate Risk
+115,8.4,305,High Risk
+225,14.4,197,Moderate Risk
+137,8.5,253,High Risk
+191,17.3,184,Moderate Risk
+84,17.6,205,Moderate Risk
+234,9.9,153,High Risk
+198,14.8,175,Moderate Risk
+180,8.9,194,High Risk
+93,15.3,122,Healthy
+96,11.5,289,High Risk
+109,14.8,309,Moderate Risk
+233,11.7,125,High Risk
+93,9.5,125,Moderate Risk
+93,12.1,310,Moderate Risk
+73,9.1,267,High Risk
+136,13.8,268,Moderate Risk
+103,8.4,121,Moderate Risk
+246,13.3,209,High Risk
+185,16.9,175,Moderate Risk
+92,16.4,215,Moderate Risk
+178,16.8,129,Moderate Risk
+138,17.2,206,Moderate Risk
+164,9.0,189,High Risk
+131,9.3,270,High Risk
+238,13.6,232,High Risk
+126,16.9,149,Healthy
+123,17.7,247,Moderate Risk
+139,8.5,197,Moderate Risk
+170,11.6,284,High Risk
+126,10.1,174,Moderate Risk
+207,15.6,168,Moderate Risk
+237,14.4,153,Moderate Risk
+204,9.2,224,High Risk
+172,12.8,291,High Risk
+235,14.9,141,Moderate Risk
+154,15.8,150,Moderate Risk
+130,8.2,254,High Risk
+72,16.9,224,Moderate Risk
+197,13.7,268,High Risk
+248,16.1,135,Moderate Risk
+155,16.1,139,Moderate Risk
+116,9.9,162,Moderate Risk
+145,9.1,291,High Risk
+107,15.2,166,Healthy
+233,9.6,233,High Risk
+238,16.5,138,Moderate Risk
+210,15.3,167,Moderate Risk
+156,16.4,316,High Risk
+127,11.0,258,High Risk
+119,11.2,276,High Risk
+99,14.7,164,Healthy
+170,8.3,315,High Risk
+94,15.3,283,Moderate Risk
+181,16.4,295,High Risk
+224,12.2,206,High Risk
+248,15.6,134,Moderate Risk
+195,9.7,229,High Risk
+192,11.2,291,High Risk
+116,17.7,314,Moderate Risk
+187,17.9,215,High Risk
+108,13.1,287,Moderate Risk
+85,17.3,221,Moderate Risk
+91,13.2,205,Moderate Risk
+123,10.9,261,High Risk
+218,10.7,310,High Risk
+85,17.3,200,Healthy
+128,9.7,170,Moderate Risk
+100,13.8,231,Moderate Risk
+239,13.6,305,High Risk
+101,15.4,134,Healthy
+231,13.0,184,Moderate Risk
+78,10.7,207,High Risk
+208,9.7,302,High Risk
+79,14.2,195,Healthy
+86,15.2,129,Healthy
+137,13.7,161,Healthy
+117,15.4,214,Moderate Risk
+249,9.4,130,High Risk
+180,16.8,237,High Risk
+222,13.8,263,High Risk
+192,9.3,244,High Risk
+218,12.6,197,Moderate Risk
+170,16.4,266,High Risk
+171,17.0,278,High Risk
+134,10.6,300,High Risk
+120,15.1,209,Moderate Risk
+105,9.0,127,Moderate Risk
+150,8.3,271,High Risk
+196,13.6,255,High Risk
+157,14.9,230,High Risk
+173,16.0,295,High Risk
+84,11.4,277,High Risk
+165,8.1,177,High Risk
+236,12.8,205,High Risk
+192,8.2,174,High Risk
+70,8.9,241,High Risk
+220,11.3,309,High Risk
+191,12.4,227,High Risk
+236,10.8,167,High Risk
+195,13.8,251,High Risk
+126,8.6,284,High Risk
+150,9.4,255,High Risk
+231,15.0,248,High Risk
+238,9.4,317,High Risk
+142,14.4,166,Moderate Risk
+210,8.5,124,High Risk
+139,12.1,297,Moderate Risk
+75,9.8,143,Moderate Risk
+153,9.1,294,High Risk
+121,13.7,137,Healthy
+72,17.3,203,Moderate Risk
+150,8.5,275,High Risk
+132,12.2,124,Healthy
+118,15.1,149,Healthy
+145,12.6,120,Moderate Risk
+181,16.1,205,High Risk
+244,9.8,201,High Risk
+178,17.6,293,High Risk
+134,11.9,188,Moderate Risk
+150,11.4,150,High Risk
+84,16.7,317,Moderate Risk
+169,13.6,210,High Risk
+101,13.2,303,Moderate Risk
+165,15.3,212,High Risk
+197,13.8,246,High Risk
+215,9.6,275,High Risk
+182,14.7,135,Moderate Risk
+152,9.3,173,High Risk
+112,16.1,300,Moderate Risk
+185,17.9,259,High Risk
+232,11.8,139,High Risk
+147,12.4,201,High Risk
+127,8.5,281,High Risk
+102,8.1,300,High Risk
+83,17.2,311,Moderate Risk
+231,9.3,270,High Risk
+201,12.5,228,High Risk
+128,16.2,274,Moderate Risk
+226,16.9,232,High Risk
+152,13.2,136,Moderate Risk
+203,13.7,295,High Risk
+190,14.7,268,High Risk
+246,17.6,297,High Risk
+237,14.0,287,High Risk
+152,13.6,245,High Risk
+96,8.1,122,Moderate Risk
+149,8.8,136,High Risk
+203,13.8,308,High Risk
+82,17.4,169,Healthy
+133,16.7,241,Moderate Risk
+216,17.8,209,High Risk
+149,13.3,206,High Risk
+192,15.9,125,Moderate Risk
+112,16.4,275,Moderate Risk
+158,14.5,319,High Risk
+217,11.4,174,High Risk
+164,12.7,305,High Risk
+241,16.6,292,High Risk
+220,11.0,319,High Risk
+71,17.2,266,Moderate Risk
+189,10.3,221,High Risk
+91,15.5,148,Healthy
+184,14.3,270,High Risk
+126,15.5,230,Moderate Risk
+141,12.4,279,High Risk
+76,17.3,129,Healthy
+188,14.3,210,High Risk
+183,10.9,296,High Risk
+85,14.4,312,Moderate Risk
+152,10.9,148,High Risk
+248,10.9,306,High Risk
+141,12.0,164,Moderate Risk
+193,16.5,314,High Risk
+182,13.0,170,Moderate Risk
+81,14.8,220,Moderate Risk
+195,11.9,247,High Risk
+122,10.6,130,Moderate Risk
+144,17.5,201,High Risk
+202,14.0,247,High Risk
+96,17.3,125,Healthy
+209,10.0,186,High Risk
+214,9.5,181,High Risk
+203,16.6,252,High Risk
+166,14.8,256,High Risk
+74,9.9,147,Moderate Risk
+126,10.7,157,Moderate Risk
+225,16.0,162,Moderate Risk
+147,12.5,236,High Risk
+138,14.7,268,Moderate Risk
+187,11.2,309,High Risk
+189,11.8,165,High Risk
+128,17.9,317,Moderate Risk
+102,10.5,285,High Risk
+131,13.1,168,Healthy
+119,16.4,158,Healthy
+181,10.4,190,High Risk
+88,12.2,246,Moderate Risk
+192,14.2,277,High Risk
+116,12.8,268,Moderate Risk
+236,12.6,120,Moderate Risk
+102,11.6,279,High Risk
+210,13.9,255,High Risk
+153,14.2,188,Moderate Risk
+204,14.5,149,Moderate Risk
+148,8.7,234,High Risk
+83,14.3,127,Healthy
+216,17.5,232,High Risk
+197,13.4,138,Moderate Risk
+123,15.2,178,Healthy
+217,13.6,302,High Risk
+98,16.5,277,Moderate Risk
+93,17.3,198,Healthy
+151,9.8,155,High Risk
+132,12.4,174,Healthy
+174,11.9,163,High Risk
+126,12.1,274,Moderate Risk
+205,9.3,196,High Risk
+131,16.1,197,Healthy
+226,8.4,220,High Risk
+86,13.3,301,Moderate Risk
+135,14.6,295,Moderate Risk
+75,10.1,149,Moderate Risk
+127,17.1,158,Healthy
+138,16.4,132,Healthy
+225,12.7,241,High Risk
+131,12.1,263,Moderate Risk
+238,10.4,291,High Risk
+151,15.3,318,High Risk
+238,9.3,231,High Risk
+246,14.8,274,High Risk
+246,16.4,164,Moderate Risk
+140,10.3,238,High Risk
+200,16.7,154,Moderate Risk
+79,8.3,275,High Risk
+167,17.1,126,Moderate Risk
+158,9.2,309,High Risk
+104,14.5,229,Moderate Risk
+71,10.5,233,High Risk
+193,16.4,170,Moderate Risk
+93,13.1,165,Healthy
+143,9.4,139,High Risk
+235,13.7,215,High Risk
+91,12.1,157,Healthy
+223,14.6,308,High Risk
+240,16.8,223,High Risk
+108,12.1,151,Healthy
+226,10.9,273,High Risk
+89,8.1,177,Moderate Risk
+110,13.7,286,Moderate Risk
+217,12.0,267,High Risk
+177,11.7,201,High Risk
+216,9.8,169,High Risk
+153,12.3,171,Moderate Risk
+180,17.8,205,High Risk
+135,11.0,234,High Risk
+227,14.0,269,High Risk
+122,15.8,172,Healthy
+103,15.5,185,Healthy
+219,11.3,236,High Risk
+136,14.1,162,Healthy
+203,16.7,201,High Risk
+96,8.2,270,High Risk
+79,12.4,183,Healthy
+142,10.2,256,High Risk
+165,11.9,232,High Risk
+117,12.2,254,Moderate Risk
+139,15.5,288,Moderate Risk
+169,8.9,173,High Risk
+128,13.1,184,Healthy
+71,13.6,121,Healthy
+226,12.9,251,High Risk
+134,15.3,197,Healthy
+152,11.8,151,High Risk
+223,17.4,219,High Risk
+79,12.8,249,Moderate Risk
+122,13.7,223,Moderate Risk
+148,16.3,311,High Risk
+128,10.8,261,High Risk
+219,8.8,267,High Risk
+248,15.1,208,High Risk
+117,12.8,168,Healthy
+218,17.0,255,High Risk
+192,17.8,310,High Risk
+91,12.0,293,Moderate Risk
+169,12.2,268,High Risk
+167,12.1,206,High Risk
+227,11.2,279,High Risk
+94,15.8,127,Healthy
+97,15.6,220,Moderate Risk
+182,12.8,135,Moderate Risk
+114,8.4,159,Moderate Risk
+137,11.1,225,High Risk
+76,10.9,146,Moderate Risk
+118,16.1,223,Moderate Risk
+206,8.9,224,High Risk
+233,16.1,265,High Risk
+152,14.7,154,Moderate Risk
+198,15.3,232,High Risk
+207,12.3,171,Moderate Risk
+233,14.8,262,High Risk
+142,14.1,310,High Risk
+115,15.7,172,Healthy
+175,12.5,210,High Risk
+229,12.7,200,Moderate Risk
+101,14.4,223,Moderate Risk
+75,9.1,185,Moderate Risk
+245,12.4,232,High Risk
+235,17.7,150,Moderate Risk
+214,8.4,180,High Risk
+143,11.2,311,High Risk
+183,11.1,220,High Risk
+96,14.3,224,Moderate Risk
+123,9.1,217,High Risk
+247,14.3,153,Moderate Risk
+232,9.0,302,High Risk
+154,8.9,178,High Risk
+196,15.3,122,Moderate Risk
+222,11.2,136,High Risk
+225,17.8,197,Moderate Risk
+180,8.4,165,High Risk
+84,12.5,285,Moderate Risk
+201,9.1,154,High Risk
+162,11.5,248,High Risk
+192,18.0,231,High Risk
+142,16.9,276,High Risk
+224,8.5,251,High Risk
+223,13.6,180,Moderate Risk
+216,14.5,216,High Risk
+161,10.1,264,High Risk
+86,9.5,275,High Risk
+112,17.0,297,Moderate Risk
+190,17.7,209,High Risk
+110,17.9,255,Moderate Risk
+239,15.9,281,High Risk
+247,14.6,178,Moderate Risk
+237,11.5,137,High Risk
+108,9.7,214,High Risk
+182,8.8,306,High Risk
+220,14.9,274,High Risk
+180,15.8,135,Moderate Risk
+249,16.3,129,Moderate Risk
+116,17.1,223,Moderate Risk
+132,16.8,195,Healthy
+179,18.0,269,High Risk
+138,10.4,135,Moderate Risk
+112,15.6,131,Healthy
+245,13.9,194,Moderate Risk
+103,10.6,298,High Risk
+109,17.8,248,Moderate Risk
+130,17.0,146,Healthy
+247,9.3,314,High Risk
+131,8.3,131,Moderate Risk
+127,14.9,149,Healthy
+230,14.0,128,Moderate Risk
+144,17.4,172,Moderate Risk
+85,10.3,308,High Risk
+151,8.8,173,High Risk
+163,10.6,284,High Risk
+117,8.2,312,High Risk
+207,8.4,289,High Risk
+151,17.1,168,Moderate Risk
+107,11.5,123,Moderate Risk
+196,12.1,311,High Risk
+88,8.2,198,Moderate Risk
+233,10.7,298,High Risk
+132,16.0,210,Moderate Risk
+146,14.2,319,High Risk
+243,15.5,307,High Risk
+200,12.5,198,Moderate Risk
+171,11.1,278,High Risk
+134,12.8,222,Moderate Risk
+189,11.2,230,High Risk
+160,16.4,319,High Risk
+77,11.0,177,Moderate Risk
+248,14.6,201,High Risk
+142,9.4,251,High Risk
+203,14.9,141,Moderate Risk
+176,17.1,250,High Risk
+158,14.1,198,Moderate Risk
+108,13.6,218,Moderate Risk
+182,17.6,294,High Risk
+97,14.3,157,Healthy
+166,10.6,280,High Risk
+106,10.9,295,High Risk
+206,15.1,312,High Risk
+151,15.4,236,High Risk
+125,11.0,145,Moderate Risk
+154,11.5,255,High Risk
+71,17.9,169,Healthy
+127,9.0,157,Moderate Risk
+176,12.0,257,High Risk
+192,8.6,161,High Risk
+237,16.2,156,Moderate Risk
+233,8.9,273,High Risk
+183,14.7,259,High Risk
+176,8.6,168,High Risk
+106,14.7,261,Moderate Risk
+148,16.4,165,Moderate Risk
+161,12.0,282,High Risk
+87,13.2,148,Healthy
+167,12.0,131,Moderate Risk
+132,11.0,235,High Risk
+219,16.0,201,High Risk
+208,10.7,163,High Risk
+73,15.2,313,Moderate Risk
+204,10.1,121,High Risk
+130,10.5,306,High Risk
+176,11.4,136,High Risk
+123,13.9,257,Moderate Risk
+157,12.5,137,Moderate Risk
+137,15.5,141,Healthy
+198,10.1,202,High Risk
+124,8.1,177,Moderate Risk
+72,15.8,172,Healthy
+235,16.2,120,Moderate Risk
+190,8.6,180,High Risk
+198,14.1,278,High Risk
+171,11.8,150,High Risk
+107,15.9,185,Healthy
+154,16.7,266,High Risk
+226,16.5,172,Moderate Risk
+202,15.8,214,High Risk
+161,10.7,269,High Risk
+90,16.1,142,Healthy
+178,13.3,262,High Risk
+116,8.5,273,High Risk
+153,12.6,250,High Risk
+152,17.4,206,High Risk
+104,16.9,267,Moderate Risk
+138,9.0,244,High Risk
+198,15.4,228,High Risk
+209,16.1,159,Moderate Risk
+96,10.7,240,High Risk
+125,12.7,158,Healthy
+92,15.1,239,Moderate Risk
+222,12.4,319,High Risk
+90,9.1,137,Moderate Risk
+130,15.1,288,Moderate Risk
+132,17.1,317,Moderate Risk
+191,14.5,274,High Risk
+121,15.7,262,Moderate Risk
+157,11.6,156,High Risk
+222,9.8,305,High Risk
+124,14.4,124,Healthy
+115,11.3,192,Moderate Risk
+101,16.6,254,Moderate Risk
+124,9.2,160,Moderate Risk
+165,12.3,129,Moderate Risk
+202,12.0,309,High Risk
+105,17.4,273,Moderate Risk
+179,9.5,187,High Risk
+246,8.1,143,High Risk
+175,10.4,197,High Risk
+127,16.2,288,Moderate Risk
+108,10.1,312,High Risk
+149,10.4,264,High Risk
+166,9.3,228,High Risk
+182,15.2,143,Moderate Risk
+130,8.7,274,High Risk
+206,11.3,126,High Risk
+75,10.8,192,Moderate Risk
+178,13.6,226,High Risk
+104,15.3,218,Moderate Risk
+108,13.3,241,Moderate Risk
+219,17.3,131,Moderate Risk
+238,17.5,204,High Risk
+187,11.6,122,High Risk
+74,15.8,198,Healthy
+239,15.4,204,High Risk
+156,16.9,129,Moderate Risk
+145,12.5,152,Moderate Risk
+227,13.3,165,Moderate Risk
+126,12.2,178,Healthy
+196,16.5,171,Moderate Risk
+98,10.3,125,Moderate Risk
+234,10.4,249,High Risk
+156,11.7,148,High Risk
+210,10.3,238,High Risk
+229,13.6,287,High Risk
+115,9.3,216,High Risk
+185,11.2,308,High Risk
+181,17.1,315,High Risk
+220,12.1,187,Moderate Risk
+114,15.5,276,Moderate Risk
+214,9.1,309,High Risk
+173,10.5,179,High Risk
+154,16.1,243,High Risk
+203,15.6,203,High Risk
+177,11.9,160,High Risk
+87,17.5,232,Moderate Risk
+163,17.1,184,Moderate Risk
+219,17.6,311,High Risk
+102,12.3,198,Healthy
+227,10.0,182,High Risk
+195,14.3,295,High Risk
+229,14.8,267,High Risk
+239,9.3,237,High Risk
+191,15.9,156,Moderate Risk
+207,8.2,183,High Risk
+184,12.8,205,High Risk
+233,11.3,252,High Risk
+231,15.4,153,Moderate Risk
+97,11.1,158,Moderate Risk
+80,16.3,186,Healthy
+236,13.9,181,Moderate Risk
+116,15.9,207,Moderate Risk
+196,17.9,271,High Risk
+216,14.8,250,High Risk
+187,17.8,228,High Risk
+212,8.3,318,High Risk
+195,11.4,208,High Risk
+225,9.1,186,High Risk
+221,10.6,198,High Risk
+141,16.4,297,High Risk
+176,8.3,148,High Risk
+206,13.2,193,Moderate Risk
+244,13.7,151,Moderate Risk
+102,13.6,206,Moderate Risk
+88,12.8,158,Healthy
+143,15.9,256,High Risk
+237,9.3,220,High Risk
+244,11.1,261,High Risk
+226,14.2,187,Moderate Risk
+247,14.9,311,High Risk
+167,12.0,267,High Risk
+210,16.8,147,Moderate Risk
+198,12.2,133,Moderate Risk
+231,12.0,291,High Risk
+162,8.4,196,High Risk
+245,13.5,235,High Risk
+117,15.1,286,Moderate Risk
+246,9.1,147,High Risk
+133,11.1,311,High Risk
+130,15.8,208,Moderate Risk
+226,11.7,151,High Risk
+108,10.4,256,High Risk
+197,14.7,275,High Risk
+157,10.0,214,High Risk
+95,17.0,136,Healthy
+86,9.1,236,High Risk
+140,15.1,196,Healthy
+82,13.0,174,Healthy
+138,16.7,129,Healthy
+95,9.3,199,Moderate Risk
+118,14.8,253,Moderate Risk
+76,13.7,295,Moderate Risk
+127,12.8,235,Moderate Risk
+118,12.9,314,Moderate Risk
+172,15.2,288,High Risk
+122,17.4,198,Healthy
+131,8.9,179,Moderate Risk
+86,8.2,161,Moderate Risk
+240,16.1,235,High Risk
+94,9.1,228,High Risk
+200,17.9,190,Moderate Risk
+98,14.2,275,Moderate Risk
+186,14.5,221,High Risk
+229,10.0,132,High Risk
+95,10.4,134,Moderate Risk
+193,14.6,155,Moderate Risk
+213,17.1,134,Moderate Risk
+94,17.8,236,Moderate Risk
+123,10.0,194,Moderate Risk
+225,9.3,175,High Risk
+142,8.6,214,High Risk
+189,16.7,251,High Risk
+125,10.9,171,Moderate Risk
+134,8.0,257,High Risk
+162,10.2,292,High Risk
+155,11.4,203,High Risk
+149,17.9,148,Moderate Risk
+238,13.2,172,Moderate Risk
+177,10.0,276,High Risk
+248,11.3,270,High Risk
+187,11.3,304,High Risk
+226,8.2,297,High Risk
+152,9.4,140,High Risk
+216,15.0,231,High Risk
+238,9.2,290,High Risk
+242,10.3,257,High Risk
+84,11.5,195,Moderate Risk
+200,15.6,149,Moderate Risk
+208,13.8,244,High Risk
+243,14.9,170,Moderate Risk
+99,13.7,280,Moderate Risk
+126,14.8,265,Moderate Risk
+215,8.0,197,High Risk
+248,17.3,141,Moderate Risk
+197,9.1,183,High Risk
+117,12.1,140,Healthy
+205,15.7,248,High Risk
+91,12.4,226,Moderate Risk
+75,17.5,235,Moderate Risk
+173,12.7,243,High Risk
+105,16.7,262,Moderate Risk
+148,16.1,155,Moderate Risk
+185,17.8,166,Moderate Risk
+126,17.3,301,Moderate Risk
+118,17.0,151,Healthy
+242,15.3,305,High Risk
+151,11.7,293,High Risk
+135,9.1,173,Moderate Risk
+146,14.9,280,High Risk
+114,17.8,286,Moderate Risk
+148,15.3,142,Moderate Risk
+89,17.3,290,Moderate Risk
+192,16.0,302,High Risk
+136,9.6,121,Moderate Risk
+152,10.5,313,High Risk
+72,11.4,285,High Risk
+133,9.7,276,High Risk
+109,13.8,229,Moderate Risk
+128,17.8,243,Moderate Risk
+131,15.6,186,Healthy
+201,12.2,190,Moderate Risk
+129,8.0,283,High Risk
+185,11.1,148,High Risk
+144,13.3,238,High Risk
+191,11.2,284,High Risk
+176,9.1,232,High Risk
+165,12.4,164,Moderate Risk
+160,10.5,135,High Risk
+227,17.1,150,Moderate Risk
+199,9.0,281,High Risk
+131,8.5,169,Moderate Risk
+118,8.1,312,High Risk
+206,11.3,241,High Risk
+161,14.6,309,High Risk
+228,15.3,290,High Risk
+193,12.5,303,High Risk
+130,14.8,134,Healthy
+117,11.6,295,High Risk
+222,14.7,168,Moderate Risk
+233,8.4,291,High Risk
+205,11.9,129,High Risk
+127,15.9,139,Healthy
+170,16.0,189,Moderate Risk
+181,15.2,127,Moderate Risk
+242,10.0,292,High Risk
+131,10.5,153,Moderate Risk
+108,18.0,298,Moderate Risk
+127,9.0,123,Moderate Risk
+168,9.8,227,High Risk
+113,9.3,286,High Risk
+98,11.3,143,Moderate Risk
+128,10.1,174,Moderate Risk
+140,13.0,145,Healthy
+161,12.8,144,Moderate Risk
+78,17.0,155,Healthy
+196,8.3,190,High Risk
+203,11.2,305,High Risk
+226,14.0,131,Moderate Risk
+214,14.0,248,High Risk
+213,12.8,235,High Risk
+200,16.2,297,High Risk
+90,8.6,272,High Risk
+133,16.2,252,Moderate Risk
+159,12.9,202,High Risk
+105,9.3,315,High Risk
+131,16.9,125,Healthy
+239,14.5,145,Moderate Risk
+145,9.6,232,High Risk
+239,8.3,222,High Risk
+82,9.4,239,High Risk
+80,14.1,302,Moderate Risk
+123,9.8,286,High Risk
+85,10.3,128,Moderate Risk
+77,8.3,164,Moderate Risk
+173,15.2,133,Moderate Risk
+128,16.1,231,Moderate Risk
+126,16.0,174,Healthy
+109,9.3,256,High Risk
+199,17.0,134,Moderate Risk
+163,14.7,156,Moderate Risk
+207,17.0,297,High Risk
+113,12.5,246,Moderate Risk
+208,12.4,236,High Risk
+149,15.8,203,High Risk
+150,8.9,191,High Risk
+71,13.2,215,Moderate Risk
+247,16.4,230,High Risk
+209,16.3,268,High Risk
+184,17.6,304,High Risk
+159,15.0,224,High Risk
+92,10.1,266,High Risk
+215,8.2,177,High Risk
+131,12.8,214,Moderate Risk
+182,13.1,237,High Risk
+197,10.4,125,High Risk
+131,9.2,123,Moderate Risk
+107,13.9,162,Healthy
+235,15.6,212,High Risk
+130,17.9,161,Healthy
+198,15.6,122,Moderate Risk
+242,15.9,248,High Risk
+225,14.2,302,High Risk
+218,17.9,134,Moderate Risk
+191,14.4,166,Moderate Risk
+179,16.6,204,High Risk
+82,17.5,293,Moderate Risk
+224,17.3,177,Moderate Risk
+169,11.8,318,High Risk
+204,8.8,158,High Risk
+91,9.7,250,High Risk
+143,8.6,277,High Risk
+201,9.1,154,High Risk
+92,9.8,304,High Risk
+188,11.4,276,High Risk
+139,13.4,297,Moderate Risk
+153,15.1,309,High Risk
+170,10.1,171,High Risk
+153,14.7,237,High Risk
+230,15.0,133,Moderate Risk
+97,13.6,282,Moderate Risk
+205,17.0,275,High Risk
+70,9.1,305,High Risk
+234,9.8,149,High Risk
+132,12.3,209,Moderate Risk
+91,9.3,254,High Risk
+139,13.7,286,Moderate Risk
+194,12.0,214,High Risk
+218,10.8,188,High Risk
+165,9.7,282,High Risk
+232,11.4,246,High Risk
+148,14.1,171,Moderate Risk
+74,13.8,261,Moderate Risk
+129,9.6,182,Moderate Risk
+189,9.2,155,High Risk
+115,8.3,210,High Risk
+247,8.1,271,High Risk
+245,16.8,287,High Risk
+203,8.5,276,High Risk
+125,15.3,172,Healthy
+179,16.7,228,High Risk
+226,9.0,269,High Risk
+173,12.4,191,Moderate Risk
+146,17.6,134,Moderate Risk
+215,16.3,232,High Risk
+71,12.9,188,Healthy
+77,15.6,235,Moderate Risk
+144,16.3,311,High Risk
+194,11.5,123,High Risk
+107,16.9,194,Healthy
+245,12.7,265,High Risk
+96,13.3,161,Healthy
+89,18.0,149,Healthy
+209,16.4,262,High Risk
+112,11.6,189,Moderate Risk
+100,8.1,302,High Risk
+160,14.3,300,High Risk
+130,15.0,135,Healthy
+178,14.5,230,High Risk
+160,17.7,223,High Risk
+232,16.6,226,High Risk
+164,12.5,242,High Risk
+212,8.6,281,High Risk
+213,12.8,146,Moderate Risk
+82,14.9,132,Healthy
+182,14.1,274,High Risk
+104,13.4,192,Healthy
+218,12.7,316,High Risk
+227,10.9,205,High Risk
+117,10.8,150,Moderate Risk
+104,13.0,122,Healthy
+155,9.6,149,High Risk
+235,11.4,268,High Risk
+228,11.2,218,High Risk
+221,13.9,253,High Risk
+183,8.7,279,High Risk
+246,16.3,289,High Risk
+169,13.6,309,High Risk
+229,14.7,279,High Risk
+168,15.0,218,High Risk
+72,10.9,205,High Risk
+154,12.7,286,High Risk
+194,17.6,183,Moderate Risk
+207,15.7,237,High Risk
+152,17.7,277,High Risk
+94,15.5,310,Moderate Risk
+137,9.8,233,High Risk
+130,8.6,278,High Risk
+98,13.8,206,Moderate Risk
+196,11.6,159,High Risk
+88,10.8,280,High Risk
+240,16.1,310,High Risk
+143,11.7,144,High Risk
+130,11.2,283,High Risk
+240,16.5,271,High Risk
+222,16.5,214,High Risk
+89,11.6,305,High Risk
+117,16.3,286,Moderate Risk
+156,16.5,165,Moderate Risk
+221,12.2,257,High Risk
+208,8.7,151,High Risk
+179,8.0,216,High Risk
+97,13.2,283,Moderate Risk
+128,11.4,275,High Risk
+202,18.0,263,High Risk
+120,15.7,135,Healthy
+218,15.6,137,Moderate Risk
+81,17.6,255,Moderate Risk
+119,16.9,194,Healthy
+201,11.2,317,High Risk
+182,9.7,120,High Risk
+239,15.5,309,High Risk
+235,11.8,244,High Risk
+222,12.7,157,Moderate Risk
+83,14.3,164,Healthy
+101,17.1,305,Moderate Risk
+208,12.2,200,Moderate Risk
+215,15.8,248,High Risk
+224,10.7,151,High Risk
+124,15.0,255,Moderate Risk
+189,8.0,237,High Risk
+144,16.7,159,Moderate Risk
+90,8.3,303,High Risk
+241,15.1,310,High Risk
+202,8.5,193,High Risk
+156,10.7,230,High Risk
+238,13.0,222,High Risk
+128,12.2,222,Moderate Risk
+158,9.9,193,High Risk
+219,11.3,283,High Risk
+152,15.3,233,High Risk
+134,14.7,242,Moderate Risk
+133,8.7,176,Moderate Risk
+140,15.5,193,Healthy
+73,8.5,202,High Risk
+212,13.4,292,High Risk
+173,10.6,198,High Risk
+219,13.9,249,High Risk
+244,10.6,212,High Risk
+162,17.8,315,High Risk
+243,11.1,169,High Risk
+211,10.4,148,High Risk
+247,10.8,200,High Risk
+217,17.0,129,Moderate Risk
+247,14.4,274,High Risk
+181,15.3,236,High Risk
+230,17.2,262,High Risk
+188,17.1,179,Moderate Risk
+128,15.4,278,Moderate Risk
+112,10.0,268,High Risk
+81,16.4,179,Healthy
+109,10.0,177,Moderate Risk
+187,15.4,288,High Risk
+89,14.9,293,Moderate Risk
+235,15.6,164,Moderate Risk
+200,13.3,243,High Risk
+225,14.4,145,Moderate Risk
+159,17.5,221,High Risk
+163,9.0,170,High Risk
+82,11.1,283,High Risk
+135,14.1,171,Healthy
+106,17.6,170,Healthy
+246,9.0,250,High Risk
+135,8.2,133,Moderate Risk
+105,8.6,296,High Risk
+95,8.5,120,Moderate Risk
+144,17.1,304,High Risk
+177,15.2,264,High Risk
+237,14.8,297,High Risk
+112,13.2,133,Healthy
+219,15.8,306,High Risk
+217,9.6,200,High Risk
+77,11.9,122,Moderate Risk
+98,12.9,217,Moderate Risk
+109,9.1,159,Moderate Risk
+227,12.2,208,High Risk
+197,11.2,244,High Risk
+153,8.4,313,High Risk
+185,9.4,281,High Risk
+213,15.6,214,High Risk
+243,8.2,128,High Risk
+131,17.3,213,Moderate Risk
+76,8.9,203,High Risk
+114,16.0,140,Healthy
+245,17.0,144,Moderate Risk
+224,17.4,221,High Risk
+157,16.7,241,High Risk
+142,10.9,291,High Risk
+232,11.3,144,High Risk
+248,12.3,256,High Risk
+106,9.4,222,High Risk
+188,8.2,309,High Risk
+126,16.7,273,Moderate Risk
+77,13.5,176,Healthy
+164,14.1,156,Moderate Risk
+186,17.3,135,Moderate Risk
+179,14.7,156,Moderate Risk
+89,14.9,195,Healthy
+193,15.9,271,High Risk
+122,9.2,145,Moderate Risk
+188,11.6,139,High Risk
+81,17.7,256,Moderate Risk
+246,17.2,222,High Risk
+86,16.8,148,Healthy
+133,12.5,150,Healthy
+111,16.6,138,Healthy
+163,8.5,267,High Risk
+226,9.5,146,High Risk
+216,12.1,213,High Risk
+80,12.8,204,Moderate Risk
